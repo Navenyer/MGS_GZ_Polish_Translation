@@ -1,0 +1,14 @@
+file: gz_item.lng#eng
+count: 8
+table: 0x20
+key_base: 0x60
+text_base: 0xfa
+
+0 0x0 0x0 info_item_IT_Nvg => 'Highly sensitive night-vision gear that augments sight for better situational awareness in low light.'
+1 0x11 0x68 info_item_IT_Bino => 'Variable-magnification binoculars for long-range recon and requesting intel on enemies from MB.'
+2 0x23 0xca name_item_IT_Nvg => 'NIGHT-VISION GOGGLES'
+3 0x34 0xe1 info_item_IT_None => ''
+4 0x46 0xe4 name_item_IT_None => 'NONE'
+5 0x58 0xeb name_item_IT_Skull => 'SKULL'
+6 0x6b 0xf3 name_item_IT_XOFEmblem => 'XOF PATCH'
+7 0x82 0xff name_item_IT_Cassette => 'CASSETTE TAPE'

@@ -1,0 +1,13 @@
+/Original/
+/Modified/
+/Robocze/
+# Blokujemy wszystkie EXE, DLL i CONFIG wewnątrz Tools i jego podfolderów
+/Tools/**/*.exe
+/Tools/**/*.dll
+/Tools/**/*.config
+/Tools/**/*.txt
+
+# Ale zostawiamy folder ze skryptami Python
+!/Tools/Python/
+*.g0s
+*.fpkd

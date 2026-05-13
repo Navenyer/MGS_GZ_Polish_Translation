@@ -1,0 +1,3792 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MGSV GZ\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Naven\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgctxt "gz_menu.lng#eng::mb_title_log"
+msgid "LOG"
+msgstr "DZIENNIK"
+
+msgctxt "gz_menu.lng#eng::mb_title_mission_info"
+msgid "MISSION INFO"
+msgstr "INFORMACJE O MISJI"
+
+msgctxt "gz_menu.lng#eng::mb_popup_default"
+msgid "DEFAULT"
+msgstr "DOMYŚLNE"
+
+msgctxt "gz_menu.lng#eng::mb_popup_yes"
+msgid "YES"
+msgstr "TAK"
+
+msgctxt "gz_menu.lng#eng::mb_popup_ok"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "gz_menu.lng#eng::mb_popup_no"
+msgid "NO"
+msgstr "NIE"
+
+msgctxt "gz_menu.lng#eng::mb_popup_cancel"
+msgid "CANCEL"
+msgstr "ANULUJ"
+
+msgctxt "gz_menu.lng#eng::mb_menu_info_gz_missioninfo"
+msgid "Display Mission Data"
+msgstr "Wyświetl dane misji"
+
+msgctxt "gz_menu.lng#eng::mb_menu_info_gz_log"
+msgid "Check Log"
+msgstr "Sprawdź dziennik"
+
+msgctxt "gz_menu.lng#eng::mb_menu_info_gz_helicopter"
+msgid "Call Helicopter"
+msgstr "Wezwij helikopter"
+
+msgctxt "gz_menu.lng#eng::mb_menu_info_gz_cassette"
+msgid "Play Cassette Tapes"
+msgstr "Odtwórz kasety"
+
+msgctxt "gz_menu.lng#eng::mb_key_show_top"
+msgid "Display by Rank"
+msgstr "Wyświetl według rangi"
+
+msgctxt "gz_menu.lng#eng::mb_key_rival_list"
+msgid "Rivals List"
+msgstr "Lista rywali"
+
+msgctxt "gz_menu.lng#eng::mb_key_friend_list"
+msgid "Friends List"
+msgstr "Lista znajomych"
+
+msgctxt "gz_menu.lng#eng::mb_key_select_mission"
+msgid "Switch Missions"
+msgstr "Przełącz misje"
+
+msgctxt "gz_menu.lng#eng::mb_key_show_profile"
+msgid "Display Profile"
+msgstr "Wyświetl profil"
+
+msgctxt "gz_menu.lng#eng::mb_key_show_gamercard"
+msgid "Display Gamercard"
+msgstr "Wyświetl kartę gracza"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_resume"
+msgid "Resume Game"
+msgstr "Wznów grę"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_play_music"
+msgid "Play Song"
+msgstr "Odtwórz utwór"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_set_tape"
+msgid "Switch Tape"
+msgstr "Przełącz kasetę"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_set_heli_music"
+msgid "Set Helicopter Music"
+msgstr "Muzyka helikoptera"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_pre_photo"
+msgid "Back"
+msgstr "Wstecz"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_next_photo"
+msgid "Next"
+msgstr "Dalej"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_top_menu_close"
+msgid "Map"
+msgstr "Mapa"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_photo"
+msgid "Photo"
+msgstr "Zdjęcie"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_set_marker"
+msgid "Set Marker"
+msgstr "Ustaw znacznik"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_top_menu_open"
+msgid "Menu"
+msgstr "Menu"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_map_zoom"
+msgid "Zoom In/Out"
+msgstr "Przybliż/Oddal"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_map_scroll"
+msgid "Scroll Map"
+msgstr "Przewiń mapę"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_carnavi_on"
+msgid "Compass ON"
+msgstr "Kompas WŁ"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_carnavi_off"
+msgid "Compass OFF"
+msgstr "Kompas WYŁ"
+
+msgctxt "gz_menu.lng#eng::mb_title_menu_mode"
+msgid "MENU"
+msgstr "MENU"
+
+msgctxt "gz_menu.lng#eng::mb_title_map_mode"
+msgid "MAP"
+msgstr "MAPA"
+
+msgctxt "gz_menu.lng#eng::mb_title_version"
+msgid "VERSION"
+msgstr "WERSJA"
+
+msgctxt "gz_menu.lng#eng::mb_title_001"
+msgid "iDROID"
+msgstr "iDROID"
+
+msgctxt "gz_menu.lng#eng::mb_menu_gz_missioninfo"
+msgid "MISSION INFO"
+msgstr "INFORMACJE O MISJI"
+
+msgctxt "gz_menu.lng#eng::mb_menu_gz_log"
+msgid "LOG"
+msgstr "DZIENNIK"
+
+msgctxt "gz_menu.lng#eng::mb_menu_gz_helicopter"
+msgid "HELICOPTER"
+msgstr "HELIKOPTER"
+
+msgctxt "gz_menu.lng#eng::mb_menu_gz_cassette"
+msgid "WALKMAN"
+msgstr "WALKMAN"
+
+msgctxt "gz_menu.lng#eng::unit_c"
+msgid "C"
+msgstr "C"
+
+msgctxt "gz_menu.lng#eng::sys_save_ingame"
+msgid "SAVING..."
+msgstr "ZAPISYWANIE..."
+
+msgctxt "gz_menu.lng#eng::sys_load_ingame"
+msgid "LOADING..."
+msgstr "WCZYTYWANIE..."
+
+msgctxt "gz_menu.lng#eng::cassettetape_heli_music"
+msgid "SELECTED HELI MUSIC"
+msgstr "WYBRANY UTWÓR (HELI)"
+
+msgctxt "gz_menu.lng#eng::cassettetape_selected_tape"
+msgid "SELECTED CASSETTE TAPE"
+msgstr "WYBRANA KASETA"
+
+msgctxt "gz_menu.lng#eng::cassettetape_track"
+msgid "TRACK"
+msgstr "UTWÓR"
+
+msgctxt "gz_menu.lng#eng::cassettetape_music"
+msgid "Music"
+msgstr "Muzyka"
+
+msgctxt "gz_menu.lng#eng::cassettetape_briefing"
+msgid "Info"
+msgstr "Informacje"
+
+msgctxt "gz_menu.lng#eng::cassettetape_tape"
+msgid "CASSETTE TAPES"
+msgstr "KASETY"
+
+msgctxt "gz_menu.lng#eng::cassettetape_title"
+msgid "CASSETTE TAPES"
+msgstr "KASETY"
+
+msgctxt "gz_menu.lng#eng::unit_num"
+msgid "time(s)"
+msgstr "raz(y)"
+
+msgctxt "gz_menu.lng#eng::playrecord_title"
+msgid "TITLE"
+msgstr "TYTUŁ"
+
+msgctxt "gz_menu.lng#eng::playrecord_record"
+msgid "RECORDS"
+msgstr "REKORDY"
+
+msgctxt "gz_menu.lng#eng::challenge_name"
+msgid "TRIAL RECORDS"
+msgstr "REKORDY WYZWAŃ"
+
+msgctxt "gz_menu.lng#eng::playrecord_name"
+msgid "MISSION RECORDS"
+msgstr "REKORDY MISJI"
+
+msgctxt "gz_menu.lng#eng::demopause_title"
+msgid "CUTSCENE"
+msgstr "PRZERYWNIK FILMOWY"
+
+msgctxt "gz_menu.lng#eng::demopause_skip"
+msgid "SKIP"
+msgstr "POMIŃ"
+
+msgctxt "gz_menu.lng#eng::demopause_continue"
+msgid "RESUME"
+msgstr "WZNÓW"
+
+msgctxt "gz_menu.lng#eng::gameover_select_return_title"
+msgid "RETURN TO TITLE MENU"
+msgstr "WRÓĆ DO MENU TYTUŁOWEGO"
+
+msgctxt "gz_menu.lng#eng::gameover_title_time_paradox"
+msgid "TIME PARADOX"
+msgstr "PARADOKS CZASOWY"
+
+msgctxt "gz_menu.lng#eng::gameover_title_mission_failed"
+msgid "MISSION FAILED"
+msgstr "MISJA NIEUDANA"
+
+msgctxt "gz_menu.lng#eng::gameover_select_restart"
+msgid "RESTART MISSION"
+msgstr "ROZPOCZNIJ MISJĘ OD NOWA"
+
+msgctxt "gz_menu.lng#eng::gameover_select_return_cp"
+msgid "CONTINUE FROM CHECKPOINT"
+msgstr "KONTYNUUJ OD PUNKTU KONTROLNEGO"
+
+msgctxt "gz_menu.lng#eng::unit_yard_full"
+msgid "yard"
+msgstr "jard"
+
+msgctxt "gz_menu.lng#eng::unit_yard"
+msgid "yd"
+msgstr "j"
+
+msgctxt "gz_menu.lng#eng::unit_seamile_full"
+msgid ""
+msgstr ""
+
+msgctxt "gz_menu.lng#eng::unit_seamile"
+msgid "Nm"
+msgstr "Mm"
+
+msgctxt "gz_menu.lng#eng::unit_pound_full"
+msgid "pound"
+msgstr "funt"
+
+msgctxt "gz_menu.lng#eng::unit_pound"
+msgid "ld"
+msgstr "lb"
+
+msgctxt "gz_menu.lng#eng::unit_ounce_full"
+msgid "ounce"
+msgstr "uncja"
+
+msgctxt "gz_menu.lng#eng::unit_ounce"
+msgid "oz"
+msgstr "oz"
+
+msgctxt "gz_menu.lng#eng::unit_mile_full"
+msgid "mile"
+msgstr "mila"
+
+msgctxt "gz_menu.lng#eng::unit_mile"
+msgid "mi"
+msgstr "mi"
+
+msgctxt "gz_menu.lng#eng::unit_metre_full"
+msgid "meter"
+msgstr "metr"
+
+msgctxt "gz_menu.lng#eng::unit_metre"
+msgid "m"
+msgstr "m"
+
+msgctxt "gz_menu.lng#eng::unit_inch_full"
+msgid "inch"
+msgstr "cal"
+
+msgctxt "gz_menu.lng#eng::unit_inch"
+msgid "in"
+msgstr "cal"
+
+msgctxt "gz_menu.lng#eng::unit_gram_full"
+msgid "gram"
+msgstr "gram"
+
+msgctxt "gz_menu.lng#eng::unit_gram"
+msgid "g"
+msgstr "g"
+
+msgctxt "gz_menu.lng#eng::unit_feet_full"
+msgid "feet"
+msgstr "stopa"
+
+msgctxt "gz_menu.lng#eng::unit_feet"
+msgid "ft"
+msgstr "ft"
+
+msgctxt "gz_menu.lng#eng::unit_f_full"
+msgid "F"
+msgstr "F"
+
+msgctxt "gz_menu.lng#eng::unit_f"
+msgid "F"
+msgstr "F"
+
+msgctxt "gz_menu.lng#eng::unit_c_full"
+msgid "C"
+msgstr "C"
+
+msgctxt "gz_menu.lng#eng::pause_info_resume"
+msgid "Return to the Game."
+msgstr "Wróć do gry."
+
+msgctxt "gz_menu.lng#eng::pause_exit_game_x36"
+msgid "EXIT GAME"
+msgstr "WYJDŹ Z GRY"
+
+msgctxt "gz_menu.lng#eng::challenge_info_rescuePazTime"
+msgid ""
+"Time taken to get Paz safely on board the chopper\n"
+"from her cell in the \"Ground Zeroes\" mission."
+msgstr ""
+"Czas bezpiecznego transportu Paz z celi na pokład helikoptera w misji\n"
+"„Ground Zeroes”."
+
+msgctxt "gz_menu.lng#eng::challenge_info_challengePoint"
+msgid ""
+"Total points earned from your position in the\n"
+"\"Fastest Neutralization of Weekly Enemy\" ranking."
+msgstr ""
+"Łączna liczba punktów za miejsce w rankingu\n"
+"„Najszybsza neutralizacja wroga tygodnia”."
+
+msgctxt "gz_menu.lng#eng::challenge_info_continuityCrowShootCount"
+msgid ""
+"The number of shots fired successively at crows\n"
+"and nothing else. A hit on any other object\n"
+"immediately resets the count."
+msgstr ""
+"Liczba strzałów oddanych pod rząd do kruków\n"
+"i do niczego innego. Trafienie w inny obiekt\n"
+"natychmiast resetuje licznik."
+
+msgctxt "gz_menu.lng#eng::challenge_info_blowEnemyDistance"
+msgid ""
+"The greatest distance an enemy was sent\n"
+"flying by a blast or other attack."
+msgstr ""
+"Największa odległość, na jaką wróg został odrzucony\n"
+"przez wybuch lub inny atak."
+
+msgctxt "gz_menu.lng#eng::challenge_info_stunHeadshotDistance"
+msgid ""
+"The furthest distance from which a headshot was\n"
+"successfully made. Tranquilizers only."
+msgstr ""
+"Największa odległość udanego strzału w głowę.\n"
+"Wyłącznie broń usypiająca."
+
+msgctxt "gz_menu.lng#eng::challenge_info_headshotDistance"
+msgid ""
+"The furthest distance from which a headshot was\n"
+"successfully made."
+msgstr ""
+"Największa odległość, z której\n"
+"oddano udany strzał w głowę."
+
+msgctxt "gz_menu.lng#eng::challenge_info_onesideWheelDriveTime"
+msgid ""
+"Longest time spent driving a vehicle on two\n"
+"wheels."
+msgstr ""
+"Najdłuższy czas jazdy pojazdem\n"
+"na dwóch kołach."
+
+msgctxt "gz_menu.lng#eng::challenge_info_weeklyNeutralizeTime"
+msgid ""
+"Time taken to neutralize a specified enemy soldier.\n"
+"The specified soldier changes each week on Sunday."
+msgstr ""
+"Czas potrzebny na neutralizację wskazanego żołnierza.\n"
+"Cel zmienia się w każdą niedzielę."
+
+msgctxt "gz_menu.lng#eng::challenge_info_titel"
+msgid "Trials"
+msgstr "Próby"
+
+msgctxt "gz_menu.lng#eng::challenge_continuityCrowShootCount"
+msgid "Consecutive Crow Shootings"
+msgstr "Zestrzelone kruki (seria)"
+
+msgctxt "gz_menu.lng#eng::challenge_blowEnemyDistance"
+msgid "Farthest Distance Enemy Sent Flying"
+msgstr "Najdalszy odrzut przeciwnika"
+
+msgctxt "gz_menu.lng#eng::challenge_stunHeadshotDistance"
+msgid "Longest Range Headshot (tranq.)"
+msgstr "Strzał w głowę z największej odległości (usyp.)"
+
+msgctxt "gz_menu.lng#eng::challenge_headshotDistance"
+msgid "Longest Range Headshot"
+msgstr "Strzał w głowę z największej odległości"
+
+msgctxt "gz_menu.lng#eng::challenge_onesideWheelDriveTime"
+msgid "Longest Two-Wheel Driving Time"
+msgstr "Najdłuższy czas jazdy na dwóch kołach"
+
+msgctxt "gz_menu.lng#eng::challenge_weeklyNeutralizeTime"
+msgid "Fastest Neutralization of Weekly Enemy"
+msgstr "Najszybsza neutralizacja celu tygodnia"
+
+msgctxt "gz_menu.lng#eng::challenge_title"
+msgid "Trials"
+msgstr "Próby"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allHitMoaiTime"
+msgid "Fastest Shooting of all Moai"
+msgstr "Najszybsze zestrzelenie wszystkich figurek Moai"
+
+msgctxt "gz_menu.lng#eng::mission_rec_get2ndTapeTime"
+msgid "Fastest Acquisition of Second Tape"
+msgstr "Najszybsze zdobycie drugiej kasety"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allDestroyTowerTime"
+msgid "Fastest Destr. of Wooden Watchtowers"
+msgstr "Najszybsze zniszczenie drewnianych wież"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allGetClaymoreTime"
+msgid "Fastest Collection of all Mines"
+msgstr "Najsz. zebranie wszystkich min"
+
+msgctxt "gz_menu.lng#eng::mission_rec_eliminateVipHeriTime"
+msgid "Fastest Target Extraction of Both Targets"
+msgstr "Najszybsza ewakuacja obu celów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_rescuePazTime"
+msgid "Fastest Cell-to-Chopper Paz Rescue"
+msgstr "Najszybszy ratunek Paz (cela-śmigłowiec)"
+
+msgctxt "gz_menu.lng#eng::mission_rec_clearTime_noWeapon"
+msgid "Fastest Comp. Time (no weapons used)"
+msgstr "Najkrótszy czas uk. (bez użycia broni)"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allExterminateRatTime"
+msgid "Fastest Extermination of all Rodents"
+msgstr "Najszybsza eksterminacja wszystkich szczurów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allMarkingEnemyTime"
+msgid "Fastest Marking of all Enemies"
+msgstr "Najszybsze oznaczenie wszystkich wrogów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allPowerlessTime"
+msgid "Fastest Neutr. of all Enemies"
+msgstr "Najszybsza neutralizacja wszystkich wrogów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_clearTime_noKillAlert"
+msgid "Fastest Comp. Time (no-kill/stealth)"
+msgstr "Najkrótszy czas uk. (bez zabójstw/skradanie)"
+
+msgctxt "gz_menu.lng#eng::mission_rec_clearTime"
+msgid "Fastest Completion Time"
+msgstr "Najkrótszy czas ukończenia"
+
+msgctxt "gz_menu.lng#eng::mission_rec_exterminateRatCount"
+msgid "Total Rodent Exterminations"
+msgstr "Łączna liczba eksterminacji szczurów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_destroyVehicleCount"
+msgid "Total Vehicles Destroyed"
+msgstr "Łączna liczba zniszczonych pojazdów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_pickupWeaponCount"
+msgid "Total Weapons Stolen"
+msgstr "Łączna liczba skradzionych broni"
+
+msgctxt "gz_menu.lng#eng::mission_rec_alertCount"
+msgid "Total Enemy Combat Alerts"
+msgstr "Łączna liczba alarmów bojowych"
+
+msgctxt "gz_menu.lng#eng::mission_rec_cqcInterrogationCount"
+msgid "Total Interrogations"
+msgstr "Łączna liczba przesłuchań"
+
+msgctxt "gz_menu.lng#eng::mission_rec_cqcStunCount"
+msgid "Total Knock-Outs"
+msgstr "Łączna liczba znokautowanych wrogów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_holdupCount"
+msgid "Total Hold-Ups"
+msgstr "Łączna liczba zatrzymań (Hold-Up)"
+
+msgctxt "gz_menu.lng#eng::mission_rec_incapacitateCount"
+msgid "Total Near-Fatal Injuries"
+msgstr "Łączna liczba ciężkich obrażeń"
+
+msgctxt "gz_menu.lng#eng::mission_rec_powerlessCount"
+msgid "Total Neutralizations (non-fatal)"
+msgstr "Łączna liczba neutralizacji (nieśmiercionośne)"
+
+msgctxt "gz_menu.lng#eng::mission_rec_killCount"
+msgid "Total Kills"
+msgstr "Łączna liczba zabójstw"
+
+msgctxt "gz_menu.lng#eng::mission_rec_hitWeaponCount"
+msgid "Total Weapons Sent Flying"
+msgstr "Łączna liczba wytrąconych broni"
+
+msgctxt "gz_menu.lng#eng::mission_rec_headshotCount"
+msgid "Total Headshots"
+msgstr "Łączna liczba strzałów w głowę"
+
+msgctxt "gz_menu.lng#eng::mission_rec_hitCount"
+msgid "Total Accuracy"
+msgstr "Ogólna celność"
+
+msgctxt "gz_menu.lng#eng::mission_rec_shotCount"
+msgid "Total Shots Fired"
+msgstr "Łączna liczba oddanych strzałów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_squatTime"
+msgid "Total Crouching Time"
+msgstr "Łączny czas kucania"
+
+msgctxt "gz_menu.lng#eng::mission_rec_crawlTime"
+msgid "Total Crawling Time"
+msgstr "Łączny czas czołgania się"
+
+msgctxt "gz_menu.lng#eng::mission_rec_playTime"
+msgid "Total Mission Play Time"
+msgstr "Łączny czas rozgrywania misji"
+
+msgctxt "gz_menu.lng#eng::mission_rec_retryCount"
+msgid "Total Retries"
+msgstr "Łączna liczba powtórzeń"
+
+msgctxt "gz_menu.lng#eng::mission_rec_timeparadoxCount"
+msgid "Total Time Paradoxes"
+msgstr "Łączna liczba paradoksów czasowych"
+
+msgctxt "gz_menu.lng#eng::mission_rec_missionfailedCount"
+msgid "Total Missions Failed"
+msgstr "Łączna liczba nieudanych misji"
+
+msgctxt "gz_menu.lng#eng::mission_rec_rankSClearCount"
+msgid "Total S-Rank Completions"
+msgstr "Łączna liczba ukończeń z rangą S"
+
+msgctxt "gz_menu.lng#eng::mission_rec_noKillClearCount"
+msgid "Total No-Kill Completions"
+msgstr "Łączna liczba ukończeń bez zabójstw"
+
+msgctxt "gz_menu.lng#eng::mission_rec_noAlertClearCount"
+msgid "Total Stealth Completions"
+msgstr "Łączna liczba ukończeń po cichu"
+
+msgctxt "gz_menu.lng#eng::mission_rec_clearCount"
+msgid "Total Missions Completed"
+msgstr "Łączna liczba ukończonych misji"
+
+msgctxt "gz_menu.lng#eng::mission_rec_playCount"
+msgid "Total Missions Played"
+msgstr "Łączna liczba rozegranych misji"
+
+msgctxt "gz_menu.lng#eng::mission_rec_bestRank"
+msgid "Top Rank"
+msgstr "Najlepsza ranga"
+
+msgctxt "gz_menu.lng#eng::mission_rec_bestScore"
+msgid "Top Score"
+msgstr "Najlepszy wynik"
+
+msgctxt "gz_menu.lng#eng::mission_rec_all_clearCount"
+msgid "Total Missions Completed"
+msgstr "Łączna liczba ukończonych misji"
+
+msgctxt "gz_menu.lng#eng::mission_rec_title"
+msgid "Mission Records"
+msgstr "Rekordy misji"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_medalCount"
+msgid "XOF Unit Patches Obtained"
+msgstr "Zdobyte naszywki jednostki XOF"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_radioCount"
+msgid "Intel Radio Checked"
+msgstr "Sprawdzone wiadomości radiowe"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_exterminateRatCount"
+msgid "Total Rodent Exterminations"
+msgstr "Łączna liczba eksterminacji szczurów"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_destroyVehicleCount"
+msgid "Total Vehicles Destroyed"
+msgstr "Łączna liczba zniszczonych pojazdów"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_pickupWeaponCount"
+msgid "Total Weapons Stolen"
+msgstr "Łączna liczba skradzionych broni"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_alertCount"
+msgid "Total Combat Statuses"
+msgstr "Łączna liczba stanów bojowych"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_cqcInterrogationCount"
+msgid "Total Interrogations"
+msgstr "Łączna liczba przesłuchań"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_cqcStunCount"
+msgid "Total Knock-Outs"
+msgstr "Łączna liczba znokautowanych wrogów"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_holdupCount"
+msgid "Total Hold-Ups"
+msgstr "Łączna liczba zatrzymań (Hold-Up)"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_incapacitateCount"
+msgid "Total Near-Fatal Injuries"
+msgstr "Łączna liczba ciężkich obrażeń"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_powerlessCount"
+msgid "Total Enemies Neutralized"
+msgstr "Łączna liczba zneutralizowanych wrogów"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_killCount"
+msgid "Total Kills"
+msgstr "Łączna liczba zabójstw"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_hitWeaponCount"
+msgid "Total Weapons Sent Flying"
+msgstr "Łączna liczba wytrąconych broni"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_headshotCount"
+msgid "Total Headshots"
+msgstr "Łączna liczba strzałów w głowę"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_hitCount"
+msgid "Total Accuracy"
+msgstr "Ogólna celność"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_shotCount"
+msgid "Total Shots Fired"
+msgstr "Łączna liczba oddanych strzałów"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_mbTerminalCount"
+msgid "Total iDroid Uses"
+msgstr "Łączne użycie iDroida"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_markingEnemyCount"
+msgid "Total Markings"
+msgstr "Łączna liczba oznaczeń"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_playCount"
+msgid "Total Missions Played"
+msgstr "Łączna liczba rozegranych misji"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_squatTime"
+msgid "Total Crouching Time"
+msgstr "Łączny czas kucania"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_crawlTime"
+msgid "Total Crawling Time"
+msgstr "Łączny czas czołgania się"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_playTime"
+msgid "Total Mission Play Time"
+msgstr "Łączny czas rozgrywania misji"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_title"
+msgid "RECORD TOTALS"
+msgstr "STATYSTYKI OGÓLNE"
+
+msgctxt "gz_menu.lng#eng::playrecord_destroyVehicleCount"
+msgid "Vehicles Destroyed"
+msgstr "Zniszczone pojazdy"
+
+msgctxt "gz_menu.lng#eng::playrecord_alertCount"
+msgid "Enemy Combat Alerts"
+msgstr "Alarmy bojowe"
+
+msgctxt "gz_menu.lng#eng::playrecord_holdupCount"
+msgid "Hold-Ups"
+msgstr "Zatrzymania (Hold-Up)"
+
+msgctxt "gz_menu.lng#eng::playrecord_killCount"
+msgid "Kills"
+msgstr "Zabójstwa"
+
+msgctxt "gz_menu.lng#eng::playrecord_playTime"
+msgid "Time Spent in Missions"
+msgstr "Czas spędzony w misjach"
+
+msgctxt "gz_menu.lng#eng::playrecord_mission_data"
+msgid "Mission Data"
+msgstr "Dane misji"
+
+msgctxt "gz_menu.lng#eng::unit_milimeter"
+msgid "mm"
+msgstr "mm"
+
+msgctxt "gz_menu.lng#eng::unit_centimeter"
+msgid "cm"
+msgstr "cm"
+
+msgctxt "gz_menu.lng#eng::unit_m"
+msgid "m"
+msgstr "m"
+
+msgctxt "gz_menu.lng#eng::unit_wa"
+msgid "time(s)"
+msgstr "raz(y)"
+
+msgctxt "gz_menu.lng#eng::unit_hiki"
+msgid "time(s)"
+msgstr "raz(y)"
+
+msgctxt "gz_menu.lng#eng::pause_return_title"
+msgid "RETURN TO TITLE"
+msgstr "POWRÓT DO MENU GŁÓWNEGO"
+
+msgctxt "gz_menu.lng#eng::pause_acheivement_x36"
+msgid "ACHIEVEMENTS"
+msgstr "OSIĄGNIĘCIA"
+
+msgctxt "gz_menu.lng#eng::pause_challenge_record"
+msgid "TRIAL RECORDS"
+msgstr "REKORDY PRÓB"
+
+msgctxt "gz_menu.lng#eng::pause_resume_x36"
+msgid "RESUME GAME"
+msgstr "WZNÓW GRĘ"
+
+msgctxt "gz_menu.lng#eng::challenge_info_allHitMoaiTime"
+msgid ""
+"Time taken to shoot all the moai in the\n"
+"\"Intel Operative Rescue\" Side Op."
+msgstr ""
+"Czas potrzebny na zestrzelenie wszystkich moai w misji\n"
+"pobocznej \"Ratunek agenta wywiadu\"."
+
+msgctxt "gz_menu.lng#eng::challenge_info_get2ndTapeTime"
+msgid ""
+"Time taken to obtain the \"Classified intel data\" tape\n"
+"in the \"Classified Intel Acquisition\" Side Op."
+msgstr ""
+"Czas potrzebny na zdobycie taśmy \"Tajne dane wywiadowcze\"\n"
+"w misji pobocznej \"Pozyskanie tajnych danych\"."
+
+msgctxt "gz_menu.lng#eng::challenge_info_allDestroyTowerTime"
+msgid ""
+"Time taken to destroy all the wooden watchtowers in the\n"
+"\"Destroy the Anti-Air Emplacements\" Side Op."
+msgstr ""
+"Czas potrzebny na zniszczenie wszystkich drewnianych wież strażniczych\n"
+"w misji pobocznej \"Zniszczenie stanowisk przeciwlotniczych\"."
+
+msgctxt "gz_menu.lng#eng::challenge_info_allGetClaymoreTime"
+msgid ""
+"Time taken to collect all the land mines\n"
+"in the \"Déjà-Vu\" Extra Op."
+msgstr ""
+"Czas potrzebny na zebranie wszystkich min lądowych\n"
+"w misji dodatkowej \"Déjà-Vu\"."
+
+msgctxt "gz_menu.lng#eng::challenge_info_eliminateVipHeriTime"
+msgid ""
+"Time taken to extract both targets and clear the\n"
+"\"Eliminate the Renegade Threat\" Side Op."
+msgstr ""
+"Czas potrzebny na ewakuację obu celów i ukończenie\n"
+"misji pobocznej \"Eliminacja zagrożenia ze strony renegatów\"."
+
+msgctxt "gz_menu.lng#eng::pause_mission_record"
+msgid "MISSION RECORDS"
+msgstr "REKORDY MISJI"
+
+msgctxt "gz_menu.lng#eng::pause_record"
+msgid "PLAY RECORDS"
+msgstr "STATYSTYKI ROZGRYWKI"
+
+msgctxt "gz_menu.lng#eng::pause_ranking"
+msgid "RANKINGS"
+msgstr "RANKINGI"
+
+msgctxt "gz_menu.lng#eng::pause_leaderbord"
+msgid "LEADERBOARDS"
+msgstr "TABLICE WYNIKÓW"
+
+msgctxt "gz_menu.lng#eng::pause_credits"
+msgid "CREDITS"
+msgstr "AUTORZY"
+
+msgctxt "gz_menu.lng#eng::pause_settings"
+msgid "SETTINGS"
+msgstr "USTAWIENIA"
+
+msgctxt "gz_menu.lng#eng::pause_how_to_play"
+msgid "MANUAL"
+msgstr "PODRĘCZNIK"
+
+msgctxt "gz_menu.lng#eng::pause_options_ps3"
+msgid "OPTIONS"
+msgstr "OPCJE"
+
+msgctxt "gz_menu.lng#eng::pause_unlock_fullgame_x36"
+msgid "UNLOCK FULL GAME"
+msgstr "ODBLOKUJ PEŁNĄ WERSJĘ"
+
+msgctxt "gz_menu.lng#eng::pause_photo"
+msgid "SCREEN TRANSFER"
+msgstr "TRANSFER EKRANU"
+
+msgctxt "gz_menu.lng#eng::pause_restart"
+msgid "RESTART MISSION"
+msgstr "RESTART MISJI"
+
+msgctxt "gz_menu.lng#eng::pause_return_cp"
+msgid "CHECKPOINT"
+msgstr "PUNKT KONTROLNY"
+
+msgctxt "gz_menu.lng#eng::pause_resume_ps3"
+msgid "RESUME GAME"
+msgstr "WZNÓW GRĘ"
+
+msgctxt "gz_menu.lng#eng::controls_title"
+msgid "CONTROLS"
+msgstr "STEROWANIE"
+
+msgctxt "gz_menu.lng#eng::pause_info_exit_game"
+msgid "End mission and quit the game."
+msgstr "Zakończ misję i wyjdź z gry."
+
+msgctxt "gz_menu.lng#eng::pause_info_return_title"
+msgid "End mission and return to title menu."
+msgstr "Zakończ misję i wróć do menu głównego."
+
+msgctxt "gz_menu.lng#eng::pause_info_acheivement_x36"
+msgid "View your Achievements."
+msgstr "Wyświetl swoje osiągnięcia."
+
+msgctxt "gz_menu.lng#eng::pause_info_challenge record"
+msgid "Records set in trials."
+msgstr "Rekordy ustanowione w próbach."
+
+msgctxt "gz_menu.lng#eng::pause_info_mission_record"
+msgid "Records set in missions."
+msgstr "Rekordy ustanowione w misjach."
+
+msgctxt "gz_menu.lng#eng::pause_info_record"
+msgid "Gameplay records set to date."
+msgstr "Dotychczasowe statystyki rozgrywki."
+
+msgctxt "gz_menu.lng#eng::pause_info_ranking"
+msgid "Check the rankings."
+msgstr "Sprawdź rankingi."
+
+msgctxt "gz_menu.lng#eng::pause_info_help_options_x36"
+msgid "Configure options and view tutorial."
+msgstr "Skonfiguruj opcje i wyświetl samouczek."
+
+msgctxt "gz_menu.lng#eng::pause_info_unlock_fullgame_x36"
+msgid "Purchase full version of the game."
+msgstr "Kup pełną wersję gry."
+
+msgctxt "gz_menu.lng#eng::pause_info_photo"
+msgid ""
+"Take a screenshot and transfer it to a connected smart device.\n"
+"This feature cannot be used unless a smart device is connected."
+msgstr ""
+"Zrób zrzut ekranu i prześlij go do podłączonego urządzenia mobilnego.\n"
+"Funkcja ta jest dostępna tylko przy podłączonym urządzeniu mobilnym."
+
+msgctxt "gz_menu.lng#eng::pause_info_restart"
+msgid "Restart mission from beginning."
+msgstr "Zrestartuj misję od początku."
+
+msgctxt "gz_menu.lng#eng::pause_info_return_cp"
+msgid "Restart from most recent checkpoint."
+msgstr "Wznów od ostatniego punktu kontrolnego."
+
+msgctxt "gz_menu.lng#eng::option_other_lang"
+msgid "Foreign Only"
+msgstr "Tylko obce"
+
+msgctxt "gz_menu.lng#eng::ranking_rank"
+msgid "RANK"
+msgstr "RANGA"
+
+msgctxt "gz_menu.lng#eng::controls_v_brake"
+msgid "Brake/Reverse"
+msgstr "Hamulec/Cofanie"
+
+msgctxt "gz_menu.lng#eng::controls_v_accelerator"
+msgid "Accelerate"
+msgstr "Przyspieszenie"
+
+msgctxt "gz_menu.lng#eng::controls_v_attack"
+msgid "Fire"
+msgstr "Ogień"
+
+msgctxt "gz_menu.lng#eng::controls_v_get_onoff"
+msgid "Enter/Exit Vehicle"
+msgstr "Wejdź/Wyjdź z pojazdu"
+
+msgctxt "gz_menu.lng#eng::controls_v_mv_at"
+msgid "(Shoulder) Switch View L/R"
+msgstr "(Ramię) Zmiana widoku L/P"
+
+msgctxt "gz_menu.lng#eng::controls_v_fps_tps"
+msgid "Toggle View (TPS/Shoulder/FPS)"
+msgstr "Przełącz widok (TPS/Ramię/FPS)"
+
+msgctxt "gz_menu.lng#eng::controls_v_steering"
+msgid "Steering"
+msgstr "Kierowanie"
+
+msgctxt "gz_menu.lng#eng::controls_v_light"
+msgid "Headlights ON/OFF"
+msgstr "Światła WŁ/WYŁ"
+
+msgctxt "gz_menu.lng#eng::controls_v_change_wp"
+msgid "Select/Equip Weapons and Items"
+msgstr "Wybór/Ekwipunek broni i przedmiotów"
+
+msgctxt "gz_menu.lng#eng::controls_pause"
+msgid "Pause"
+msgstr "Pauza"
+
+msgctxt "gz_menu.lng#eng::controls_terminal"
+msgid "Open iDroid"
+msgstr "Otwórz iDroida"
+
+msgctxt "gz_menu.lng#eng::controls_attack"
+msgid "Attack"
+msgstr "Atak"
+
+msgctxt "gz_menu.lng#eng::controls_stance"
+msgid "Ready Weapon"
+msgstr "Przygotowanie broni"
+
+msgctxt "gz_menu.lng#eng::controls_bino"
+msgid "(Hold) Binoculars"
+msgstr "(Przytrzymaj) Lornetka"
+
+msgctxt "gz_menu.lng#eng::controls_fps_tps"
+msgid "Toggle Aim Mode (Shoulder/FPS)"
+msgstr "Tryb celowania (Ramię/FPS)"
+
+msgctxt "gz_menu.lng#eng::controls_radio"
+msgid "Radio"
+msgstr "Radio"
+
+msgctxt "gz_menu.lng#eng::controls_avoidance"
+msgid "Quick Dive"
+msgstr "Szybki skok"
+
+msgctxt "gz_menu.lng#eng::controls_action"
+msgid "Contextual Action"
+msgstr "Akcja kontekstowa"
+
+msgctxt "gz_menu.lng#eng::controls_cqc"
+msgid "CQC"
+msgstr "CQC"
+
+msgctxt "gz_menu.lng#eng::controls_shoulder"
+msgid "(Hold) Carry"
+msgstr "(Przytrzymaj) Przenieś"
+
+msgctxt "gz_menu.lng#eng::controls_reload"
+msgid "Reload"
+msgstr "Przeładuj"
+
+msgctxt "gz_menu.lng#eng::controls_change_posture"
+msgid "Change Stance"
+msgstr "Zmiana postawy"
+
+msgctxt "gz_menu.lng#eng::controls_stance_camera"
+msgid "Switch View L/R"
+msgstr "Zmiana widoku L/P"
+
+msgctxt "gz_menu.lng#eng::controls_dash"
+msgid "Dash"
+msgstr "Sprint"
+
+msgctxt "gz_menu.lng#eng::controls_camera"
+msgid "Control Camera"
+msgstr "Sterowanie kamerą"
+
+msgctxt "gz_menu.lng#eng::controls_move"
+msgid "Move"
+msgstr "Ruch"
+
+msgctxt "gz_menu.lng#eng::controls_zoom_inout"
+msgid "(Binoculars) Zoom"
+msgstr "(Lornetka) Przybliżenie"
+
+msgctxt "gz_menu.lng#eng::controls_zoom_out"
+msgid "(Binoculars) Zoom Out"
+msgstr "(Lornetka) Oddalenie"
+
+msgctxt "gz_menu.lng#eng::controls_zoom_in"
+msgid "(Binoculars) Zoom In"
+msgstr "(Lornetka) Przybliżenie"
+
+msgctxt "gz_menu.lng#eng::controls_items"
+msgid "Equip Item"
+msgstr "Ekwipuj przedmiot"
+
+msgctxt "gz_menu.lng#eng::controls_support_weapon"
+msgid "Equip Support Weapon"
+msgstr "Ekwipuj broń wsparcia"
+
+msgctxt "gz_menu.lng#eng::controls_secondary_weapon"
+msgid "Equip Secondary"
+msgstr "Ekwipuj broń boczną"
+
+msgctxt "gz_menu.lng#eng::controls_primary_weapon"
+msgid "Equip Primary"
+msgstr "Ekwipuj broń główną"
+
+msgctxt "gz_menu.lng#eng::controls_type_vehicle"
+msgid "Vehicle"
+msgstr "Pojazd"
+
+msgctxt "gz_menu.lng#eng::controls_type_shooter"
+msgid "Shooter Type A"
+msgstr "Typ strzelca A"
+
+msgctxt "gz_menu.lng#eng::controls_type_action"
+msgid "Action Type A"
+msgstr "Typ akcji A"
+
+msgctxt "gz_menu.lng#eng::option_all"
+msgid "ON"
+msgstr "WŁ."
+
+msgctxt "gz_menu.lng#eng::option_title"
+msgid "OPTIONS"
+msgstr "OPCJE"
+
+msgctxt "gz_menu.lng#eng::ranking_25"
+msgid "Consecutive Crow Shootings"
+msgstr "Liczba zestrzelonych kruków pod rząd"
+
+msgctxt "gz_menu.lng#eng::ranking_24"
+msgid "Farthest Distance Enemy Sent Flying"
+msgstr "Najdalszy odrzut wroga"
+
+msgctxt "gz_menu.lng#eng::ranking_23"
+msgid "Longest Range Headshot (tranq.)"
+msgstr "Headshot z najdłuższego dystansu (uśpienie)"
+
+msgctxt "gz_menu.lng#eng::ranking_22"
+msgid "Longest Range Headshot"
+msgstr "Headshot z najdłuższego dystansu"
+
+msgctxt "gz_menu.lng#eng::ranking_21"
+msgid "Total Two-Wheel Driving Time"
+msgstr "Łączny czas jazdy na dwóch kołach"
+
+msgctxt "gz_menu.lng#eng::ranking_20"
+msgid "Fastest Neutr. of Weekly Enemy"
+msgstr "Najszybsza neutralizacja wroga tygodnia"
+
+msgctxt "gz_menu.lng#eng::ranking_13"
+msgid "Fastest Shooting of all Moai"
+msgstr "Najszybsze zestrzelenie wszystkich Moai"
+
+msgctxt "gz_menu.lng#eng::ranking_12"
+msgid "Fastest Acquisition of Second Tape"
+msgstr "Najszybsze zdobycie drugiej taśmy"
+
+msgctxt "gz_menu.lng#eng::ranking_11"
+msgid "Fastest Destr. of Wooden Watchtowers"
+msgstr "Najszybsze zniszczenie drewnianych wież"
+
+msgctxt "gz_menu.lng#eng::ranking_10"
+msgid "No Use"
+msgstr "Brak użycia"
+
+msgctxt "gz_menu.lng#eng::ranking_09"
+msgid "Fastest Collection of all Mines"
+msgstr "Najszybsze zebranie wszystkich min"
+
+msgctxt "gz_menu.lng#eng::ranking_08"
+msgid "Fastest Target Extraction to Chopper"
+msgstr "Najszybsza ewakuacja celu do śmigłowca"
+
+msgctxt "gz_menu.lng#eng::ranking_07"
+msgid "Fastest Cell-to-Chopper Paz Rescue"
+msgstr "Najszybszy ratunek Paz (cela-śmigłowiec)"
+
+msgctxt "gz_menu.lng#eng::ranking_06"
+msgid "Fastest Comp. Time (no weapons used)"
+msgstr "Najkrótszy czas uk. (bez użycia broni)"
+
+msgctxt "gz_menu.lng#eng::ranking_05"
+msgid "Fastest Extermination of all Rodents"
+msgstr "Najszybsza eksterminacja gryzoni"
+
+msgctxt "gz_menu.lng#eng::ranking_04"
+msgid "Fastest Marking of all Enemies"
+msgstr "Najszybsze oznaczenie wszystkich wrogów"
+
+msgctxt "gz_menu.lng#eng::ranking_03"
+msgid "Fastest Neutr. of all Enemies"
+msgstr "Najszybsza neutralizacja wszystkich wrogów"
+
+msgctxt "gz_menu.lng#eng::ranking_02"
+msgid "Fastest Comp. Time (no-kill/stealth)"
+msgstr "Najkrótszy czas uk. (bez zabójstw/po cichu)"
+
+msgctxt "gz_menu.lng#eng::ranking_01"
+msgid "Fastest Completion Time"
+msgstr "Najkrótszy czas ukończenia"
+
+msgctxt "gz_menu.lng#eng::ranking_del_rival"
+msgid "Remove from Rivals"
+msgstr "Usuń z rywali"
+
+msgctxt "gz_menu.lng#eng::ranking_add_rival"
+msgid "Add as Rival"
+msgstr "Dodaj jako rywala"
+
+msgctxt "gz_menu.lng#eng::ranking_rival"
+msgid "RANK AMONG RIVALS"
+msgstr "RANKING WŚRÓD RYWALI"
+
+msgctxt "gz_menu.lng#eng::ranking_friend"
+msgid "RANK AMONG FRIENDS"
+msgstr "RANKING WŚRÓD ZNAJOMYCH"
+
+msgctxt "gz_menu.lng#eng::ranking_top"
+msgid "TOP-RANKED PLAYERS"
+msgstr "NAJLEPSI GRACZE"
+
+msgctxt "gz_menu.lng#eng::ranking_online_id_ps3"
+msgid "ONLINE ID"
+msgstr "IDENTYFIKATOR ONLINE"
+
+msgctxt "gz_menu.lng#eng::ranking_gamer_tag_x36"
+msgid "NAME"
+msgstr "NAZWA"
+
+msgctxt "gz_menu.lng#eng::ranking_score"
+msgid "SCORE"
+msgstr "WYNIK"
+
+msgctxt "gz_menu.lng#eng::option_info_subtitle"
+msgid "Toggle subtitle display."
+msgstr "Włącza lub wyłącza napisy."
+
+msgctxt "gz_menu.lng#eng::option_head_maker"
+msgid "Marker Display"
+msgstr "Wyświetlanie znaczników"
+
+msgctxt "gz_menu.lng#eng::option_action_icon"
+msgid "Action Icon Display"
+msgstr "Wyświetlanie ikon akcji"
+
+msgctxt "gz_menu.lng#eng::option_indicate"
+msgid "Enemy Presence Display"
+msgstr "Wskaźnik obecności wroga"
+
+msgctxt "gz_menu.lng#eng::option_damege_dir"
+msgid "Damage Direction Display"
+msgstr "Wskaźnik kierunku obrażeń"
+
+msgctxt "gz_menu.lng#eng::option_show_reticle"
+msgid "Reticle Display"
+msgstr "Wyświetlanie celownika"
+
+msgctxt "gz_menu.lng#eng::option_show_challenge_log"
+msgid "Trial Record Display"
+msgstr "Wyświetlanie rekordów prób"
+
+msgctxt "gz_menu.lng#eng::option_master_volume"
+msgid "Master Volume"
+msgstr "Głośność ogólna"
+
+msgctxt "gz_menu.lng#eng::option_brightness"
+msgid "Screen Brightness"
+msgstr "Jasność ekranu"
+
+msgctxt "gz_menu.lng#eng::option_vibration"
+msgid "Vibration"
+msgstr "Wibracje"
+
+msgctxt "gz_menu.lng#eng::option_auto_target"
+msgid "Auto Aim Correction"
+msgstr "Autokorekta celowania"
+
+msgctxt "gz_menu.lng#eng::option_controll_type"
+msgid "Control Type"
+msgstr "Typ sterowania"
+
+msgctxt "gz_menu.lng#eng::option_shoulder_camera"
+msgid "Weapon Aiming Shoulder View"
+msgstr "Widok ramienia przy celowaniu"
+
+msgctxt "gz_menu.lng#eng::option_fps_dir"
+msgid "FPS Camera Direction"
+msgstr "Kierunek kamery FPS"
+
+msgctxt "gz_menu.lng#eng::option_camera_speed"
+msgid "Camera Speed"
+msgstr "Szybkość kamery"
+
+msgctxt "gz_menu.lng#eng::option_camera_left_right"
+msgid "Camera - X Axis"
+msgstr "Kamera - oś X"
+
+msgctxt "gz_menu.lng#eng::option_camera_up_down"
+msgid "Camera - Y Axis"
+msgstr "Kamera - oś Y"
+
+msgctxt "gz_menu.lng#eng::option_lang"
+msgid "Language Select"
+msgstr "Wybór języka"
+
+msgctxt "gz_menu.lng#eng::option_subtitle"
+msgid "Subtitle Display"
+msgstr "Wyświetlanie napisów"
+
+msgctxt "gz_menu.lng#eng::option_display_brightness"
+msgid "Screen Brightness"
+msgstr "Jasność ekranu"
+
+msgctxt "gz_menu.lng#eng::option_controll_setting"
+msgid "Control Settings"
+msgstr "Ustawienia sterowania"
+
+msgctxt "gz_menu.lng#eng::option_game_setting"
+msgid "Game Settings"
+msgstr "Ustawienia gry"
+
+msgctxt "gz_menu.lng#eng::tutorial_bino"
+msgid "Hold: Binoculars"
+msgstr "Przytrzymaj: Lornetka"
+
+msgctxt "gz_menu.lng#eng::option_small"
+msgid "Quiet"
+msgstr "Cicho"
+
+msgctxt "gz_menu.lng#eng::option_large"
+msgid "Loud"
+msgstr "Głośno"
+
+msgctxt "gz_menu.lng#eng::option_dark"
+msgid "Dark"
+msgstr "Ciemno"
+
+msgctxt "gz_menu.lng#eng::option_bright"
+msgid "Bright"
+msgstr "Jasno"
+
+msgctxt "gz_menu.lng#eng::option_weak"
+msgid "Weak"
+msgstr "Słabe"
+
+msgctxt "gz_menu.lng#eng::option_strong"
+msgid "Strong"
+msgstr "Mocne"
+
+msgctxt "gz_menu.lng#eng::option_low"
+msgid "Low"
+msgstr "Niska"
+
+msgctxt "gz_menu.lng#eng::option_high"
+msgid "High"
+msgstr "Wysoka"
+
+msgctxt "gz_menu.lng#eng::option_type_action"
+msgid "Action Type"
+msgstr "Typ akcji"
+
+msgctxt "gz_menu.lng#eng::option_type_shooter"
+msgid "Shooter Type"
+msgstr "Typ strzelca"
+
+msgctxt "gz_menu.lng#eng::option_left_shoulder"
+msgid "Left Shoulder"
+msgstr "Lewe ramię"
+
+msgctxt "gz_menu.lng#eng::option_right_shoulder"
+msgid "Right Shoulder"
+msgstr "Prawe ramię"
+
+msgctxt "gz_menu.lng#eng::option_player"
+msgid "Player Direction"
+msgstr "Kierunek gracza"
+
+msgctxt "gz_menu.lng#eng::option_camera"
+msgid "Camera Direction"
+msgstr "Kierunek kamery"
+
+msgctxt "gz_menu.lng#eng::option_slow"
+msgid "Slow"
+msgstr "Wolno"
+
+msgctxt "gz_menu.lng#eng::option_fast"
+msgid "Fast"
+msgstr "Szybko"
+
+msgctxt "gz_menu.lng#eng::option_revers"
+msgid "Reverse"
+msgstr "Odwrócona"
+
+msgctxt "gz_menu.lng#eng::option_normal"
+msgid "Normal"
+msgstr "Normalna"
+
+msgctxt "gz_menu.lng#eng::option_off"
+msgid "OFF"
+msgstr "WYŁ."
+
+msgctxt "gz_menu.lng#eng::option_on"
+msgid "ON"
+msgstr "WŁ."
+
+msgctxt "gz_menu.lng#eng::option_ru"
+msgid "Russian"
+msgstr "Rosyjski"
+
+msgctxt "gz_menu.lng#eng::option_ar"
+msgid "Arabic"
+msgstr "Arabski"
+
+msgctxt "gz_menu.lng#eng::option_pt"
+msgid "Portuguese"
+msgstr "Portugalski"
+
+msgctxt "gz_menu.lng#eng::option_es"
+msgid "Spanish"
+msgstr "Hiszpański"
+
+msgctxt "gz_menu.lng#eng::option_it"
+msgid "Italian"
+msgstr "Włoski"
+
+msgctxt "gz_menu.lng#eng::option_de"
+msgid "German"
+msgstr "Niemiecki"
+
+msgctxt "gz_menu.lng#eng::option_fr"
+msgid "French"
+msgstr "Francuski"
+
+msgctxt "gz_menu.lng#eng::option_en"
+msgid "English"
+msgstr "Angielski"
+
+msgctxt "gz_menu.lng#eng::option_ja"
+msgid "Japanese"
+msgstr "Japoński"
+
+msgctxt "gz_menu.lng#eng::option_none"
+msgid "None"
+msgstr "Brak"
+
+msgctxt "gz_menu.lng#eng::option_info_head_maker"
+msgid "Toggle the display of on-screen markers."
+msgstr "Włącza/wyłącza znaczniki na ekranie."
+
+msgctxt "gz_menu.lng#eng::option_info_action_icon"
+msgid "Toggle the display of action icons."
+msgstr "Włącza/wyłącza ikony akcji."
+
+msgctxt "gz_menu.lng#eng::option_info_show_challenge_log"
+msgid ""
+"Toggle the display of trial records\n"
+"on the screen."
+msgstr ""
+"Włącza lub wyłącza wyświetlanie rekordów prób\n"
+"na ekranie."
+
+msgctxt "gz_menu.lng#eng::option_info_master_volume"
+msgid ""
+"Adjust the volume for all\n"
+"in-game sounds."
+msgstr ""
+"Dostosowuje głośność wszystkich\n"
+"dźwięków w grze."
+
+msgctxt "gz_menu.lng#eng::option_info_brightness"
+msgid ""
+"Adjust the brightness of the screen.\n"
+"This feature is not available during missions."
+msgstr ""
+"Dostosowuje jasność ekranu.\n"
+"Ta funkcja nie jest dostępna podczas misji."
+
+msgctxt "gz_menu.lng#eng::option_info_vibration"
+msgid ""
+"Toggle the vibration function\n"
+"on and off."
+msgstr ""
+"Włącza lub wyłącza funkcję\n"
+"wibracji."
+
+msgctxt "gz_menu.lng#eng::option_info_auto_target"
+msgid ""
+"Toggle automatic correction of the aim\n"
+"when readying a weapon."
+msgstr ""
+"Włącza lub wyłącza automatyczną korektę celu\n"
+"podczas przygotowania broni."
+
+msgctxt "gz_menu.lng#eng::option_info_show_challenge_log"
+msgid ""
+"Set whether a message is displayed\n"
+"upon setting a new trial record."
+msgstr ""
+"Wybierz, czy komunikat ma być wyświetlany\n"
+"po ustanowieniu nowego rekordu próby."
+
+msgctxt "gz_menu.lng#eng::option_info_master_volume"
+msgid "Adjust the master audio volume."
+msgstr "Dostosuj ogólną głośność dźwięku."
+
+msgctxt "gz_menu.lng#eng::option_info_brightness"
+msgid ""
+"Adjust screen brightness so only left\n"
+"image is visible when viewed from front."
+msgstr ""
+"Dostosuj jasność tak, aby patrząc na wprost,\n"
+"widoczny był tylko lewy obraz."
+
+msgctxt "gz_menu.lng#eng::option_info_vibration"
+msgid "Toggle vibration ON/OFF."
+msgstr "Włącz lub wyłącz wibracje."
+
+msgctxt "gz_menu.lng#eng::option_info_auto_target"
+msgid ""
+"Set whether readying a weapon will make\n"
+"you aim automatically at enemies."
+msgstr ""
+"Wybierz, czy przygotowanie broni spowoduje\n"
+"automatyczne celowanie we wrogów."
+
+msgctxt "gz_menu.lng#eng::option_info_controll_type"
+msgid "Set control method."
+msgstr "Wybierz metodę sterowania."
+
+msgctxt "gz_menu.lng#eng::option_info_fps_dir"
+msgid ""
+"Set direction when changing to FPS view:\n"
+"player direction, or camera direction."
+msgstr ""
+"Ustaw kierunek przy zmianie widoku na FPS:\n"
+"kierunek gracza lub kierunek kamery."
+
+msgctxt "gz_menu.lng#eng::option_info_camera_speed"
+msgid "Set camera movement speed."
+msgstr "Ustaw szybkość ruchu kamery."
+
+msgctxt "gz_menu.lng#eng::option_info_camera_left_right"
+msgid ""
+"Set the controls for horizontal\n"
+"camera movement."
+msgstr ""
+"Ustaw sterowanie poziomym\n"
+"ruchem kamery."
+
+msgctxt "gz_menu.lng#eng::option_info_camera_up_down"
+msgid ""
+"Set the controls for vertical\n"
+"camera movement."
+msgstr ""
+"Ustaw sterowanie pionowym\n"
+"ruchem kamery."
+
+msgctxt "gz_menu.lng#eng::option_info_lang"
+msgid "Set display language."
+msgstr "Ustaw język wyświetlania."
+
+msgctxt "gz_menu.lng#eng::tutorial_get_on"
+msgid ": Enter Driver's Seat"
+msgstr ": Miejsce kierowcy"
+
+msgctxt "gz_menu.lng#eng::tutorial_radio"
+msgid ": Radio"
+msgstr ": Radio"
+
+msgctxt "gz_menu.lng#eng::tutorial_apc"
+msgid ": Armored Vehicle Controls"
+msgstr ": Sterowanie pojazdem opancerzonym"
+
+msgctxt "gz_menu.lng#eng::tutorial_vehicle"
+msgid ": Driving Controls"
+msgstr ": Sterowanie pojazdem"
+
+msgctxt "gz_menu.lng#eng::tutorial_walkman"
+msgid ": Select/Equip Item"
+msgstr ": Wybierz/Ekwipuj przedmiot"
+
+msgctxt "gz_menu.lng#eng::tutorial_brake"
+msgid ": Brake/Reverse"
+msgstr ": Hamulec/Cofanie"
+
+msgctxt "gz_menu.lng#eng::tutorial_accelarater"
+msgid ": Accelerate"
+msgstr ": Przyspieszenie"
+
+msgctxt "gz_menu.lng#eng::tutorial_cure"
+msgid ": First Aid"
+msgstr ": Pierwsza pomoc"
+
+msgctxt "gz_menu.lng#eng::tutorial_kill"
+msgid ": Kill"
+msgstr ": Zabij"
+
+msgctxt "gz_menu.lng#eng::tutorial_swoon"
+msgid "Tap: Choke"
+msgstr "Dotknij: Duś"
+
+msgctxt "gz_menu.lng#eng::tutorial_interrogation"
+msgid ": Interrogate"
+msgstr ": Przesłuchaj"
+
+msgctxt "gz_menu.lng#eng::tutorial_restraint"
+msgid "Hold: Restrain"
+msgstr "Przytrzymaj: Obezwładnij"
+
+msgctxt "gz_menu.lng#eng::tutorial_cqc"
+msgid ": CQC"
+msgstr ": CQC"
+
+msgctxt "gz_menu.lng#eng::tutorial_shoulder"
+msgid "Hold: Carry/Set Down"
+msgstr "Przytrzymaj: Przenieś/Odłóż"
+
+msgctxt "gz_menu.lng#eng::tutorial_C4_exploding"
+msgid ": Detonate C-4"
+msgstr ": Zdetonuj C-4"
+
+msgctxt "gz_menu.lng#eng::tutorial_C4_set"
+msgid ": Place C-4 "
+msgstr ": Podłóż C-4"
+
+msgctxt "gz_menu.lng#eng::tutorial_Claymore"
+msgid ": Place Directional Mine"
+msgstr ": Podłóż minę kierunkową"
+
+msgctxt "gz_menu.lng#eng::tutorial_advice"
+msgid ": Radio"
+msgstr ": Radio"
+
+msgctxt "gz_menu.lng#eng::tutorial_attack"
+msgid ": Fire"
+msgstr ": Strzał"
+
+msgctxt "gz_menu.lng#eng::tutorial_WP_hg01_v00"
+msgid ": Equip Tranquilizer Gun"
+msgstr ": Ekwipuj pistolet uśpiający"
+
+msgctxt "gz_menu.lng#eng::tutorial_climeb_up"
+msgid ": Climb"
+msgstr ": Wspinaczka"
+
+msgctxt "gz_menu.lng#eng::tutorial_controll"
+msgid ": Controls"
+msgstr ": Sterowanie"
+
+msgctxt "gz_menu.lng#eng::tutorial_stance"
+msgid ": Stance"
+msgstr ": Postawa"
+
+msgctxt "gz_menu.lng#eng::cassettetape_archive"
+msgid "Tape Archives"
+msgstr "Archiwum kaset"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_exterminateCrowCount"
+msgid "Total Crow Exterminations"
+msgstr "Łącznie wyeliminowanych kruków"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_sleepCount"
+msgid "Total Tranquilizations"
+msgstr "Łącznie uśpionych wrogów"
+
+msgctxt "gz_menu.lng#eng::ranking_14"
+msgid "Fastest Extermination of all Crows"
+msgstr "Najszybsza eliminacja kruków"
+
+msgctxt "gz_menu.lng#eng::tutorial_items"
+msgid ": Select/Equip Item"
+msgstr ": Wybierz/Ekwipuj przedmiot"
+
+msgctxt "gz_menu.lng#eng::tutorial_support_wp"
+msgid ": Select/Equip Support Weapon"
+msgstr ": Wybierz/Ekwipuj broń wsparcia"
+
+msgctxt "gz_menu.lng#eng::tutorial_secondary_wp"
+msgid ": Equip Secondary Weapon"
+msgstr ": Ekwipuj broń boczną"
+
+msgctxt "gz_menu.lng#eng::tutorial_primary_wp"
+msgid ": Equip Primary Weapon"
+msgstr ": Ekwipuj broń główną"
+
+msgctxt "gz_menu.lng#eng::tutorial_equipment_wp"
+msgid ": Select/Equip Weapon or Item"
+msgstr ": Wybierz/Ekwipuj broń lub przedmiot"
+
+msgctxt "gz_menu.lng#eng::sys_now_load_ingame"
+msgid "LOADING"
+msgstr "ŁADOWANIE"
+
+msgctxt "gz_menu.lng#eng::mb_title_top_mode"
+msgid "STANDBY MODE"
+msgstr "TRYB CZUWANIA"
+
+msgctxt "gz_menu.lng#eng::sys_no_image_ingame"
+msgid "NO IMAGE"
+msgstr "BRAK OBRAZU"
+
+msgctxt "gz_menu.lng#eng::mb_mission_order_cap"
+msgid "SELECTED MISSION"
+msgstr "WYBRANA MISJA"
+
+msgctxt "gz_menu.lng#eng::mb_mission_order_event_cap"
+msgid "EVENT LIST"
+msgstr "LISTA WYDARZEŃ"
+
+msgctxt "gz_menu.lng#eng::mb_title_cassette"
+msgid "WALKMAN"
+msgstr "WALKMAN"
+
+msgctxt "gz_menu.lng#eng::mb_title_heli_call"
+msgid "HELICOPTER"
+msgstr "ŚMIGŁOWIEC"
+
+msgctxt "gz_menu.lng#eng::mb_log_viewer_separator"
+msgid "--------------------------------------------------------------------------"
+msgstr "--------------------------------------------------------------------------"
+
+msgctxt "gz_menu.lng#eng::cassettetape_eqp"
+msgid "EQP"
+msgstr "EKW"
+
+msgctxt "gz_menu.lng#eng::telop_clear_time"
+msgid "CLEAR TIME"
+msgstr "CZAS UKOŃCZENIA"
+
+msgctxt "gz_menu.lng#eng::telop_rank"
+msgid "RANK"
+msgstr "RANGA"
+
+msgctxt "gz_menu.lng#eng::telop_score"
+msgid "SCORE"
+msgstr "WYNIK"
+
+msgctxt "gz_menu.lng#eng::option_parts_off"
+msgid "OFF"
+msgstr "WYŁ."
+
+msgctxt "gz_menu.lng#eng::option_parts_on"
+msgid "ON"
+msgstr "WŁ."
+
+msgctxt "gz_menu.lng#eng::mb_key_help_select_photo"
+msgid "Select Data"
+msgstr "Wybierz dane"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_map_change"
+msgid "Map/Aerial Photo"
+msgstr "Mapa/Zdjęcie lotnicze"
+
+msgctxt "gz_menu.lng#eng::option_info_camera_swing"
+msgid "Set whether camera will shake."
+msgstr "Wybierz, czy kamera ma się trząść."
+
+msgctxt "gz_menu.lng#eng::option_info_camera_inertia"
+msgid ""
+"Set whether inertia applies when\n"
+"camera is moved or stopped."
+msgstr ""
+"Wybierz, czy bezwładność ma wpływ na\n"
+"ruch i zatrzymywanie kamery."
+
+msgctxt "gz_menu.lng#eng::option_camera_swing"
+msgid "Camera Shake"
+msgstr "Drgania kamery"
+
+msgctxt "gz_menu.lng#eng::option_camera_inertia"
+msgid "Camera Inertia"
+msgstr "Bezwładność kamery"
+
+msgctxt "gz_menu.lng#eng::option_info_hold_camera_save"
+msgid ""
+"Set whether to remember viewpoint\n"
+"type after aiming a weapon."
+msgstr ""
+"Wybierz, czy zapamiętać rodzaj punktu\n"
+"widzenia po celowaniu z broni."
+
+msgctxt "gz_menu.lng#eng::option_hold_camera_save"
+msgid "Keep Aim Viewpoint"
+msgstr "Zapamiętaj widok celowania"
+
+msgctxt "gz_menu.lng#eng::marker_info_gimmick_weapon"
+msgid "Anti-Air Emplacement"
+msgstr "Stanowisko przeciwlotnicze"
+
+msgctxt "gz_menu.lng#eng::marker_info_my_marker"
+msgid "Marker"
+msgstr "Znacznik"
+
+msgctxt "gz_menu.lng#eng::marker_info_LZ"
+msgid "Landing Zone"
+msgstr "Strefa lądowania"
+
+msgctxt "gz_menu.lng#eng::marker_info_mission_target"
+msgid "Target"
+msgstr "Cel"
+
+msgctxt "gz_menu.lng#eng::marker_info_vehicle"
+msgid "Vehicle"
+msgstr "Pojazd"
+
+msgctxt "gz_menu.lng#eng::marker_info_hostage"
+msgid "Prisoner"
+msgstr "Więzień"
+
+msgctxt "gz_menu.lng#eng::marker_info_enemy"
+msgid "Enemy"
+msgstr "Wróg"
+
+msgctxt "gz_menu.lng#eng::marker_info_player"
+msgid "Snake"
+msgstr "Snake"
+
+msgctxt "gz_menu.lng#eng::mb_location_40"
+msgid "U.S. Naval Prison Facility, Cuba"
+msgstr "Amerykańskie Więzienie Marynarki Wojennej, Kuba"
+
+msgctxt "gz_menu.lng#eng::tutorial_walkman_play"
+msgid ": Play tape"
+msgstr ": Odtwórz taśmę"
+
+msgctxt "gz_menu.lng#eng::tutorial_cqc_throw"
+msgid ": Throw"
+msgstr ": Rzut"
+
+msgctxt "gz_menu.lng#eng::tutorial_cqc_hold"
+msgid "Hold: Restrain"
+msgstr "Przytrzymaj: Obezwładnij"
+
+msgctxt "gz_menu.lng#eng::tutorial_cqc_punch"
+msgid "Tap: Strike"
+msgstr "Dotknij: Cios"
+
+msgctxt "gz_menu.lng#eng::pause_title"
+msgid "PAUSE"
+msgstr "PAUZA"
+
+msgctxt "gz_menu.lng#eng::popup_pause_exit_game"
+msgid ""
+"Abandon the mission and quit the game?\n"
+"All game progress since the last\n"
+"checkpoint will be lost."
+msgstr ""
+"Porzucić misję i wyjść z gry?\n"
+"Wszystkie postępy od ostatniego\n"
+"punktu kontrolnego zostaną utracone."
+
+msgctxt "gz_menu.lng#eng::popup_pause_return_title"
+msgid ""
+"Abandon the mission and return to the title screen?\n"
+"All game progress since the last\n"
+"checkpoint will be lost."
+msgstr ""
+"Porzucić misję i wrócić do menu głównego?\n"
+"Wszystkie postępy od ostatniego\n"
+"punktu kontrolnego zostaną utracone."
+
+msgctxt "gz_menu.lng#eng::popup_pause_restart"
+msgid ""
+"Restart the mission from the beginning?\n"
+"All game progress in this mission, \n"
+"along with any collectible items obtained \n"
+"since your last checkpoint will be lost."
+msgstr ""
+"Zrestartować misję od początku?\n"
+"Wszystkie postępy w tej misji oraz\n"
+"wszystkie zebrane przedmioty od czasu\n"
+"ostatniego punktu kontrolnego zostaną utracone."
+
+msgctxt "gz_menu.lng#eng::popup_pause_resume_cp"
+msgid ""
+"Restart from checkpoint?\n"
+"All game progress since the last\n"
+"checkpoint will be lost."
+msgstr ""
+"Wznowić od punktu kontrolnego?\n"
+"Wszystkie postępy od ostatniego\n"
+"punktu kontrolnego zostaną utracone."
+
+msgctxt "gz_menu.lng#eng::popup_option_cancel"
+msgid ""
+"Some settings have been changed. \n"
+"Your changes will be lost."
+msgstr ""
+"Niektóre ustawienia zostały zmienione.\n"
+"Twoje zmiany zostaną utracone."
+
+msgctxt "gz_menu.lng#eng::popup_option_change"
+msgid "Apply settings changes?"
+msgstr "Zastosować zmiany ustawień?"
+
+msgctxt "gz_menu.lng#eng::popup_option_default"
+msgid "Return all settings to their default values?"
+msgstr "Przywrócić wszystkie ustawienia do wartości domyślnych?"
+
+msgctxt "gz_menu.lng#eng::popup_error_sighn_out2"
+msgid ""
+"You have signed out.\n"
+"You will not be able to use online features \n"
+"such as uploading rankings or records."
+msgstr ""
+"Wylogowano.\n"
+"Nie będziesz mógł korzystać z funkcji online,\n"
+"takich jak przesyłanie rankingów lub rekordów."
+
+msgctxt "gz_menu.lng#eng::popup_error_sighn_out"
+msgid ""
+"You have signed out.\n"
+"You will not be able to use any online features.\n"
+"Returning to Title Menu."
+msgstr ""
+"Wylogowano.\n"
+"Nie będziesz mógł korzystać z funkcji online.\n"
+"Powrót do menu głównego."
+
+msgctxt "gz_menu.lng#eng::popup_error_save3"
+msgid ""
+"Failed to save data.\n"
+"Reselect data storage device."
+msgstr ""
+"Błąd zapisu danych.\n"
+"Wybierz ponownie urządzenie pamięci masowej."
+
+msgctxt "gz_menu.lng#eng::popup_error_save2"
+msgid ""
+"Failed to save data.\n"
+"Your game progress will not be saved.\n"
+"Do you want to continue?"
+msgstr ""
+"Błąd zapisu danych.\n"
+"Postęp w grze nie zostanie zapisany.\n"
+"Czy chcesz kontynuować?"
+
+msgctxt "gz_menu.lng#eng::popup_error_save"
+msgid ""
+"Failed to save data.\n"
+"Returning to title menu."
+msgstr ""
+"Błąd zapisu danych.\n"
+"Powrót do menu głównego."
+
+msgctxt "gz_menu.lng#eng::popup_error_server_insert"
+msgid ""
+"Failed to upload records.\n"
+"Try again?"
+msgstr ""
+"Nie udało się przesłać rekordów.\n"
+"Spróbować ponownie?"
+
+msgctxt "gz_menu.lng#eng::popup_error_ranking_insert"
+msgid ""
+"Failed to upload rankings.\n"
+"Try again?"
+msgstr ""
+"Nie udało się przesłać rankingów.\n"
+"Spróbować ponownie?"
+
+msgctxt "gz_menu.lng#eng::popup_ranking_rival_del"
+msgid "Remove this player from your Rivals List?"
+msgstr "Usunąć tego gracza z listy rywali?"
+
+msgctxt "gz_menu.lng#eng::popup_ranking_rival_error"
+msgid ""
+"Your Rivals List is full.\n"
+"First remove any unwanted players from the list."
+msgstr ""
+"Twoja lista rywali jest pełna.\n"
+"Najpierw usuń z niej niechcianych graczy."
+
+msgctxt "gz_menu.lng#eng::popup_ranking_rival_add"
+msgid "Add this player as a rival?"
+msgstr "Dodać tego gracza jako rywala?"
+
+msgctxt "gz_menu.lng#eng::popup_cassette_heli_music"
+msgid "Music to be played when the support helicopter arrives."
+msgstr "Muzyka odtwarzana po przylocie śmigłowca wsparcia."
+
+msgctxt "gz_menu.lng#eng::marker_info_place_03"
+msgid "Execution Ground"
+msgstr "Miejsce egzekucji"
+
+msgctxt "gz_menu.lng#eng::marker_info_place_02"
+msgid "Goal"
+msgstr "Cel"
+
+msgctxt "gz_menu.lng#eng::marker_info_place_01"
+msgid "Drainage Channel"
+msgstr "Kanał odpływowy"
+
+msgctxt "gz_menu.lng#eng::marker_info_place_00"
+msgid "Switchboard"
+msgstr "Rozdzielnia"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_02"
+msgid "Recoilless Rifle"
+msgstr "Działo bezodrzutowe"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_01"
+msgid "Sniper Rifle"
+msgstr "Karabin snajperski"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_00"
+msgid "Handgun"
+msgstr "Pistolet"
+
+msgctxt "gz_menu.lng#eng::marker_info_bullet"
+msgid "Ammo"
+msgstr "Amunicja"
+
+msgctxt "gz_menu.lng#eng::marker_info_item_xof"
+msgid "Unit Patch"
+msgstr "Naszywka jednostki"
+
+msgctxt "gz_menu.lng#eng::marker_info_item_tape"
+msgid "Cassette Tape"
+msgstr "Kaseta magnetofonowa"
+
+msgctxt "gz_menu.lng#eng::marker_info_RV"
+msgid "Rendezvous Point"
+msgstr "Punkt zborny"
+
+msgctxt "gz_menu.lng#eng::marker_info_APC"
+msgid "Armored Vehicle"
+msgstr "Pojazd opancerzony"
+
+msgctxt "gz_menu.lng#eng::marker_info_truck"
+msgid "Truck"
+msgstr "Ciężarówka"
+
+msgctxt "gz_menu.lng#eng::marker_info_vehicle_4wd"
+msgid "Four-Wheel Drive"
+msgstr "Pojazd terenowy"
+
+msgctxt "gz_menu.lng#eng::marker_info_animal_dog"
+msgid "Guard Dog"
+msgstr "Pies strażniczy"
+
+msgctxt "gz_menu.lng#eng::marker_info_item"
+msgid "Item"
+msgstr "Przedmiot"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon"
+msgid "Weapon"
+msgstr "Broń"
+
+msgctxt "gz_menu.lng#eng::tutorial_cover_attack"
+msgid ": Cover Attack"
+msgstr ": Atak zza osłony"
+
+msgctxt "gz_menu.lng#eng::tutorial_mb_device"
+msgid ": iDroid Data Terminal"
+msgstr ": Terminal danych iDroid"
+
+msgctxt "gz_menu.lng#eng::playrecord_crawlTime"
+msgid "Crawling Time"
+msgstr "Czas czołgania się"
+
+msgctxt "gz_menu.lng#eng::playrecord_squatTime"
+msgid "Crouching Time"
+msgstr "Czas kucania"
+
+msgctxt "gz_menu.lng#eng::playrecord_shotCount"
+msgid "Shots Fired"
+msgstr "Oddane strzały"
+
+msgctxt "gz_menu.lng#eng::playrecord_hitCount"
+msgid "Shots Landed"
+msgstr "Trafione strzały"
+
+msgctxt "gz_menu.lng#eng::playrecord_headshotCount"
+msgid "Headshots"
+msgstr "Strzały w głowę"
+
+msgctxt "gz_menu.lng#eng::playrecord_hitWeaponCount"
+msgid "Weapons Sent Flying"
+msgstr "Wytrącona broń"
+
+msgctxt "gz_menu.lng#eng::playrecord_powerlessCount"
+msgid "Neutralizations (non-lethal)"
+msgstr "Neutralizacje (nieśmiercionośne)"
+
+msgctxt "gz_menu.lng#eng::playrecord_incapacitateCount"
+msgid "Near-fatal Injuries"
+msgstr "Obrażenia krytyczne"
+
+msgctxt "gz_menu.lng#eng::playrecord_cqcStunCount"
+msgid "Knock-Outs"
+msgstr "Nokauty"
+
+msgctxt "gz_menu.lng#eng::playrecord_sleepCount"
+msgid "Tranquilizations"
+msgstr "Uśpienia"
+
+msgctxt "gz_menu.lng#eng::playrecord_cqcInterrogationCount"
+msgid "Interrogations"
+msgstr "Przesłuchania"
+
+msgctxt "gz_menu.lng#eng::playrecord_discoveryCount"
+msgid "Times Discovered"
+msgstr "Wykrycia"
+
+msgctxt "gz_menu.lng#eng::playrecord_pickupWeaponCount"
+msgid "Weapons Stolen"
+msgstr "Skradziona broń"
+
+msgctxt "gz_menu.lng#eng::playrecord_exterminateRatCount"
+msgid "Rodents Exterminated"
+msgstr "Wyeliminowane gryzonie"
+
+msgctxt "gz_menu.lng#eng::playrecord_exterminateCrowCount"
+msgid "Crows Exterminated"
+msgstr "Wyeliminowane kruki"
+
+msgctxt "gz_menu.lng#eng::mission_rec_perfect_stealth"
+msgid "Total Stealth, No-Kill Completions"
+msgstr "Ukończenia bez wykrycia i zabójstw"
+
+msgctxt "gz_menu.lng#eng::mission_rec_sleepCount"
+msgid "Total Tranquilizations"
+msgstr "Łączna liczba uśpień"
+
+msgctxt "gz_menu.lng#eng::mission_rec_discoveryCount"
+msgid "Total Times Discovered"
+msgstr "Łączna liczba wykryć"
+
+msgctxt "gz_menu.lng#eng::mission_rec_exterminateCrowCount"
+msgid "Total Crow Exterminations"
+msgstr "Łączna liczba wyeliminowanych kruków"
+
+msgctxt "gz_menu.lng#eng::mission_rec_clearTime_perfect_stealth"
+msgid "Fastest Completion Time (stealth, no kills)"
+msgstr "Najkrótszy czas (bez wykryć i zabójstw)"
+
+msgctxt "gz_menu.lng#eng::mission_rec_deleteAllXofTime"
+msgid "Fastest Erasing of all Markings"
+msgstr "Najszybsze usunięcie wszystkich oznaczeń"
+
+msgctxt "gz_menu.lng#eng::mission_rec_findFoxTime"
+msgid "Fastest Completion of FOX Logos"
+msgstr "Najszybsze zebranie logotypów FOX"
+
+msgctxt "gz_menu.lng#eng::mission_rec_exterminateCrowTime"
+msgid "Fastest Extermination of all Crows"
+msgstr "Najszybsza eliminacja wszystkich kruków"
+
+msgctxt "gz_menu.lng#eng::challenge_info_clearTime_noKillAlert"
+msgid "Fastest Completion with 0 Kills and 0 Enemy Combat Statuses"
+msgstr "Najszybsze ukończenie bez zabójstw i alarmów"
+
+msgctxt "gz_menu.lng#eng::challenge_info_clearTime_perfect_stealth"
+msgid "Fastest Completion with 0 Times Discovered"
+msgstr "Najszybsze ukończenie bez wykrycia"
+
+msgctxt "gz_menu.lng#eng::challenge_info_allPowerlessTime"
+msgid "Fastest Neutralization (tranquilizations, knock-outs, and/or hold-ups) of all Enemies"
+msgstr "Najszybsza neutralizacja (uśpienie, nokaut i/lub obezwładnienie) wszystkich wrogów"
+
+msgctxt "gz_menu.lng#eng::challenge_info_allMarkingEnemyTime"
+msgid "Fastest Marking of all Enemies"
+msgstr "Najszybsze oznaczenie wszystkich wrogów"
+
+msgctxt "gz_menu.lng#eng::challenge_info_clearTime_noWeapon"
+msgid "Fastest Completion with No Weapons Used"
+msgstr "Najszybsze ukończenie bez użycia broni"
+
+msgctxt "gz_menu.lng#eng::challenge_info_deleteAllXofTime"
+msgid "Fastest Erasing of all XOF Markings"
+msgstr "Najszybsze usunięcie wszystkich oznaczeń XOF"
+
+msgctxt "gz_menu.lng#eng::challenge_info_findFoxTime"
+msgid "Fastest Completion of FOX Logos"
+msgstr "Najszybsze zebranie logotypów FOX"
+
+msgctxt "gz_menu.lng#eng::challenge_info_allExterminateRatTime"
+msgid "Fastest Extermination of all Rodents"
+msgstr "Najszybsza eksterminacja wszystkich gryzoni"
+
+msgctxt "gz_menu.lng#eng::challenge_info_exterminateCrowTime"
+msgid "Fastest Extermination of all Crows"
+msgstr "Najszybsza eliminacja wszystkich kruków"
+
+msgctxt "gz_menu.lng#eng::tutorial_look_in"
+msgid "Hold: Peek"
+msgstr "Przytrzymaj: Wyjrzyj"
+
+msgctxt "gz_menu.lng#eng::manual_key_scroll"
+msgid "Scroll"
+msgstr "Przewijanie"
+
+msgctxt "gz_menu.lng#eng::manual_key_page"
+msgid "Change Pages"
+msgstr "Zmiana stron"
+
+msgctxt "gz_menu.lng#eng::manual_key_zoom"
+msgid "Zoom In/Out"
+msgstr "Przybliż/Oddal"
+
+msgctxt "gz_menu.lng#eng::pause_help_options"
+msgid "OPTIONS"
+msgstr "OPCJE"
+
+msgctxt "gz_menu.lng#eng::pause_info_help_options"
+msgid "Configure game settings."
+msgstr "Skonfiguruj ustawienia gry."
+
+msgctxt "gz_menu.lng#eng::pause_info_how_to_play"
+msgid "View controls and other help."
+msgstr "Wyświetl sterowanie i pomoc."
+
+msgctxt "gz_menu.lng#eng::reward_open_side_ops"
+msgid "Side Ops unlocked."
+msgstr "Misje poboczne odblokowane."
+
+msgctxt "gz_menu.lng#eng::reward_open_side_ops_20020"
+msgid ""
+"\"Eliminate the Renegade Threat\"\n"
+"Side Op has been unlocked."
+msgstr ""
+"Misja poboczna „Wyeliminuj zagrożenie\n"
+"renegatów” została odblokowana."
+
+msgctxt "gz_menu.lng#eng::reward_open_side_ops_20030"
+msgid ""
+"\"Classified Intel Acquisition\"\n"
+"Side Op has been unlocked."
+msgstr ""
+"Misja poboczna „Pozyskanie tajnych\n"
+"danych” została odblokowana."
+
+msgctxt "gz_menu.lng#eng::reward_open_side_ops_20040"
+msgid ""
+"\"Intel Operative Rescue\"\n"
+"Side Op has been unlocked."
+msgstr ""
+"Misja poboczna „Ratunek agenta\n"
+"wywiadu” została odblokowana."
+
+msgctxt "gz_menu.lng#eng::reward_open_side_ops_20050"
+msgid ""
+"\"Destroy the Anti-Air\n"
+"Emplacements\" Side Op\n"
+"has been unlocked."
+msgstr ""
+"Misja poboczna „Zniszcz stanowiska\n"
+"przeciwlotnicze” została\n"
+"odblokowana."
+
+msgctxt "gz_menu.lng#eng::reward_open_side_ops_20060"
+msgid ""
+"\"Déjà-Vu\" Extra Op \n"
+"has been unlocked."
+msgstr ""
+"Misja dodatkowa „Déjà-Vu”\n"
+"została odblokowana."
+
+msgctxt "gz_menu.lng#eng::reward_extreme"
+msgid ""
+"HARD difficulty has been\n"
+"unlocked for this mission."
+msgstr ""
+"Poziom trudności TRUDNY został\n"
+"odblokowany dla tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_challenge"
+msgid ""
+"Trials have been\n"
+"unlocked for this mission.\n"
+"For details, go to the\n"
+"Trial Records Menu."
+msgstr ""
+"Próby zostały odblokowane\n"
+"dla tej misji. Szczegóły\n"
+"znajdziesz w menu\n"
+"rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_get_tape_20010"
+msgid ""
+"Obtained \"Chico's Tape\n"
+"(4 of 7)\" cassette tape from\n"
+"escaped prisoner."
+msgstr ""
+"Otrzymano kasetę magnetofonową\n"
+"„Taśma Chico (4 z 7)” od\n"
+"zbiegłego więźnia."
+
+msgctxt "gz_menu.lng#eng::reward_get_xof_20010"
+msgid ""
+"Obtained XOF patch from\n"
+"rescued prisoner."
+msgstr ""
+"Otrzymano naszywkę XOF od\n"
+"uratowanego więźnia."
+
+msgctxt "gz_menu.lng#eng::reward_xof_num"
+msgid "XOF Patches Gathered [%d/%d]"
+msgstr "Zebrane naszywki XOF [%d/%d]"
+
+msgctxt "gz_menu.lng#eng::reward_get_tape_20040"
+msgid ""
+"Obtained \"Chico's Tape\n"
+"(1 of 7)\" cassette tape from\n"
+"Intel agent."
+msgstr ""
+"Otrzymano kasetę magnetofonową\n"
+"„Taśma Chico (1 z 7)” od\n"
+"agenta wywiadu."
+
+msgctxt "gz_menu.lng#eng::reward_get_tape_20020"
+msgid ""
+"Obtained cassette tape from\n"
+"renegade Marines."
+msgstr ""
+"Otrzymano kasetę magnetofonową\n"
+"od marines-renegatów."
+
+msgctxt "gz_menu.lng#eng::reward_get_tape_20050"
+msgid ""
+"Obtained \"Chico's Tape\n"
+"(7 of 7)\" cassette tape from\n"
+"rescued prisoner."
+msgstr ""
+"Otrzymano kasetę magnetofonową\n"
+"„Taśma Chico (7 z 7)” od\n"
+"uratowanego więźnia."
+
+msgctxt "gz_menu.lng#eng::reward_tape_num"
+msgid "Cassette Tapes Gathered [%d/%d]"
+msgstr "Zebrane kasety [%d/%d]"
+
+msgctxt "gz_menu.lng#eng::reward_open_solid_snake"
+msgid ""
+"The Solid Snake outfit has been unlocked\n"
+"for the \"Déjà-Vu\" Extra Op.\n"
+"It can be selected after choosing this mission from the Mission Select Menu."
+msgstr ""
+"Strój Solid Snake'a został odblokowany\n"
+"dla misji dodatkowej „Déjà-Vu”.\n"
+"Można go wybrać po wskazaniu misji w menu wyboru misji."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_allMarkingEnemyTime"
+msgid ""
+"\"Fastest Marking of all Enemies\" trial\n"
+"has been unlocked for this mission's NORMAL difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsze oznaczenie wszystkich wrogów”\n"
+"została odblokowana dla poziomu trudności NORMALNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_headshotDistance"
+msgid ""
+"\"Longest Range Headshot,\" \"Furthest Enemy Sent Flying,\"\n"
+"and \"Longest Two-Wheel Driving Time\" trials\n"
+"have been unlocked for all missions.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próby „Najdalszy headshot”, „Najdalszy odrzut wroga”\n"
+"oraz „Najdłuższa jazda na dwóch kołach” zostały\n"
+"odblokowane dla wszystkich misji. Szczegóły w menu prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_stunHeadshotDistance"
+msgid ""
+"\"Longest Range Headshot (tranq.)\" trial\n"
+"has been unlocked for all missions.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najdalszy headshot (uśpienie)”\n"
+"została odblokowana dla wszystkich misji.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_rescuePazTime"
+msgid ""
+"\"Fastest Cell-to-Chopper Paz Rescue\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybszy ratunek Paz (cela-śmigłowiec)”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_eliminateVipHeriTime"
+msgid ""
+"\"Fastest Target Extraction of Both Targets\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsza ewakuacja obu celów”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_allDestroyTowerTime"
+msgid ""
+"\"Fastest Destr. of Wooden Watchtowers\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsze zniszczenie drewnianych wież”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_get2ndTapeTime"
+msgid ""
+"\"Fastest Acquisition of Second Tape\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsze zdobycie drugiej taśmy”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_allHitMoaiTime"
+msgid ""
+"\"Fastest Shooting of all Moai\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsze zestrzelenie wszystkich Moai”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_allGetClaymoreTime"
+msgid ""
+"\"Fastest Collection of all Mines\" trial\n"
+"has been unlocked for this mission's NORMAL difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsze zebranie wszystkich min”\n"
+"została odblokowana dla poziomu trudności NORMALNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_allExterminateRatTime"
+msgid ""
+"\"Fastest Extermination of all Rodents\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsza eksterminacja wszystkich gryzoni”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_exterminateCrowTime"
+msgid ""
+"\"Fastest Extermination of all Crows\" trial\n"
+"has been unlocked for this mission's NORMAL difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsza eliminacja wszystkich kruków”\n"
+"została odblokowana dla poziomu trudności NORMALNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_deleteAllXofTime"
+msgid ""
+"\"Fastest Erasing of all Markings\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsze usunięcie wszystkich oznaczeń”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_findFoxTime"
+msgid ""
+"\"Fastest Completion of FOX Logos\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsze zebranie logotypów FOX”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::option_cover_level"
+msgid "Entering Cover"
+msgstr "Przywieranie do osłon"
+
+msgctxt "gz_menu.lng#eng::option_info_cover_level"
+msgid ""
+"Set how easily you enter into cover.\n"
+"The higher the number, the easier it is."
+msgstr ""
+"Ustawia łatwość przywierania do osłon.\n"
+"Im wyższa liczba, tym łatwiej przywrzeć."
+
+msgctxt "gz_menu.lng#eng::option_near"
+msgid "Near"
+msgstr "Blisko"
+
+msgctxt "gz_menu.lng#eng::option_far"
+msgid "Far"
+msgstr "Daleko"
+
+msgctxt "gz_menu.lng#eng::mission_difficulty_normal"
+msgid "Normal"
+msgstr "Normalny"
+
+msgctxt "gz_menu.lng#eng::mission_difficulty_extreme"
+msgid "Hard"
+msgstr "Trudny"
+
+msgctxt "gz_menu.lng#eng::mission_difficulty"
+msgid "Difficulty"
+msgstr "Poziom trudności"
+
+msgctxt "gz_menu.lng#eng::save_title_name"
+msgid "METAL GEAR SOLID V: GROUND ZEROES"
+msgstr "METAL GEAR SOLID V: GROUND ZEROES"
+
+msgctxt "gz_menu.lng#eng::save_subtitle_name"
+msgid "Save Data"
+msgstr "Dane zapisu"
+
+msgctxt "gz_menu.lng#eng::save_detail"
+msgid ""
+msgstr ""
+
+msgctxt "gz_menu.lng#eng::game_data_title"
+msgid ""
+"METAL GEAR SOLID V: GROUND ZEROES\n"
+"Game Data"
+msgstr ""
+"METAL GEAR SOLID V: GROUND ZEROES\n"
+"Dane gry"
+
+msgctxt "gz_menu.lng#eng::save_file_name_display"
+msgid "MGSV:GZ Save Data"
+msgstr "MGSV:GZ Dane zapisu"
+
+msgctxt "gz_menu.lng#eng::game_data_file_name"
+msgid "MGSV:GZ Install Data"
+msgstr "MGSV:GZ Dane instalacyjne"
+
+msgctxt "gz_menu.lng#eng::popup_error_ranking_select"
+msgid ""
+"Failed to obtain Rankings.\n"
+"Try again?"
+msgstr ""
+"Nie udało się pobrać rankingów.\n"
+"Spróbować ponownie?"
+
+msgctxt "gz_menu.lng#eng::popup_error_rival_add"
+msgid "Failed to register Rival."
+msgstr "Nie udało się zarejestrować rywala."
+
+msgctxt "gz_menu.lng#eng::popup_error_rival_delete"
+msgid "Failed to delete Rival."
+msgstr "Nie udało się usunąć rywala."
+
+msgctxt "gz_menu.lng#eng::popup_error_rival_select"
+msgid "Failed to obtain Rivals List."
+msgstr "Nie udało się pobrać listy rywali."
+
+msgctxt "gz_menu.lng#eng::reward_get_tape_allchico"
+msgid ""
+"Obtained all \"Chico's Tape\"\n"
+"cassette tapes.\n"
+"\"Chico's Tape\" can now be\n"
+"played as a single recording."
+msgstr ""
+"Zebrano wszystkie „Taśmy Chico”.\n"
+"„Taśmy Chico” mogą być teraz\n"
+"odtwarzane jako jedno nagranie."
+
+msgctxt "gz_menu.lng#eng::marker_info_LZ_danger_low"
+msgid "Danger Low"
+msgstr "Niskie zagrożenie"
+
+msgctxt "gz_menu.lng#eng::marker_info_LZ_danger_middle"
+msgid "Danger Moderate"
+msgstr "Średnie zagrożenie"
+
+msgctxt "gz_menu.lng#eng::marker_info_LZ_danger_high"
+msgid "Danger High"
+msgstr "Wysokie zagrożenie"
+
+msgctxt "gz_menu.lng#eng::EULA_title"
+msgid "Terms of Use"
+msgstr "Warunki użytkowania"
+
+msgctxt "gz_menu.lng#eng::EULA_agree"
+msgid "Accept"
+msgstr "Akceptuj"
+
+msgctxt "gz_menu.lng#eng::EULA_disagree"
+msgid "Decline"
+msgstr "Odrzuć"
+
+msgctxt "gz_menu.lng#eng::mb_mission_complete"
+msgid "Completed"
+msgstr "Ukończono"
+
+msgctxt "gz_menu.lng#eng::marker_info_lost_position"
+msgid "Last Known Position"
+msgstr "Ostatnia znana pozycja"
+
+msgctxt "gz_menu.lng#eng::photo_capture"
+msgid "Take Photo"
+msgstr "Zrób zdjęcie"
+
+msgctxt "gz_menu.lng#eng::photo_cancel"
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgctxt "gz_menu.lng#eng::loading_next"
+msgid "Next"
+msgstr "Dalej"
+
+msgctxt "gz_menu.lng#eng::loading_prev"
+msgid "Previous"
+msgstr "Wstecz"
+
+msgctxt "gz_menu.lng#eng::loading_end"
+msgid "Start Mission"
+msgstr "Rozpocznij misję"
+
+msgctxt "gz_menu.lng#eng::cassette_select_music"
+msgid "Select Tracks to Import"
+msgstr "Wybierz utwory do importu"
+
+msgctxt "gz_menu.lng#eng::cassette_take_in_music"
+msgid "Import"
+msgstr "Importuj"
+
+msgctxt "gz_menu.lng#eng::tutorial_change_barrel"
+msgid ": Switch Barrels"
+msgstr ": Zmień lufę"
+
+msgctxt "gz_menu.lng#eng::ranking_show_gamer_card"
+msgid "Show Gamercard"
+msgstr "Pokaż kartę gracza"
+
+msgctxt "gz_menu.lng#eng::ranking_show_profile"
+msgid "Show Profile"
+msgstr "Pokaż profil"
+
+msgctxt "gz_menu.lng#eng::playrecord_playingdata_challenge"
+msgid "Trial Records"
+msgstr "Rekordy prób"
+
+msgctxt "gz_menu.lng#eng::playrecord_playingdata"
+msgid "Gameplay Records"
+msgstr "Rekordy rozgrywki"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_03"
+msgid "Shotgun"
+msgstr "Strzelba"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_04"
+msgid "Submachine Gun"
+msgstr "Pistolet maszynowy"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_05"
+msgid "Smoke Grenade"
+msgstr "Granat dymny"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_06"
+msgid "C-4"
+msgstr "C-4"
+
+msgctxt "gz_menu.lng#eng::marker_info_place_04"
+msgid "Searchlight"
+msgstr "Reflektor"
+
+msgctxt "gz_menu.lng#eng::marker_info_chico"
+msgid "Chico"
+msgstr "Chico"
+
+msgctxt "gz_menu.lng#eng::marker_info_paz"
+msgid "Paz"
+msgstr "Paz"
+
+msgctxt "gz_menu.lng#eng::marker_info_eye"
+msgid "Target A - \"Glaz\""
+msgstr "Cel A - „Glaz”"
+
+msgctxt "gz_menu.lng#eng::marker_info_finger"
+msgid "Target B - \"Palitz\""
+msgstr "Cel B - „Palitz”"
+
+msgctxt "gz_menu.lng#eng::marker_info_agent"
+msgid "Agent"
+msgstr "Agent"
+
+msgctxt "gz_menu.lng#eng::marker_info_hostage_esc"
+msgid "Escaped Prisoner"
+msgstr "Zbiegły więzień"
+
+msgctxt "gz_menu.lng#eng::marker_info_under_cover"
+msgid "Intel Agent"
+msgstr "Agent wywiadu"
+
+msgctxt "gz_menu.lng#eng::marker_info_unknown"
+msgid "???"
+msgstr "???"
+
+msgctxt "gz_menu.lng#eng::option_camera_setting"
+msgid "Camera Settings"
+msgstr "Ustawienia kamery"
+
+msgctxt "gz_menu.lng#eng::challenge_common_challenge"
+msgid "Overall Trial Records"
+msgstr "Ogólne rekordy prób"
+
+msgctxt "gz_menu.lng#eng::reward_challenge_allPowerlessTime2"
+msgid ""
+"\"Fastest Neutr. of all Enemies\" trial\n"
+"has been unlocked for this mission's NORMAL difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsza neutr. wszystkich wrogów”\n"
+"została odblokowana dla poziomu trudności NORMALNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::option_controll_type_setting"
+msgid "Control Type"
+msgstr "Typ sterowania"
+
+msgctxt "gz_menu.lng#eng::cassettetape_play"
+msgid "PLAY"
+msgstr "ODTWÓRZ"
+
+msgctxt "gz_menu.lng#eng::cassettetape_stop"
+msgid "STOP"
+msgstr "STOP"
+
+msgctxt "gz_menu.lng#eng::cassettetape_loop_play"
+msgid "LOOP PLAY"
+msgstr "ODTWARZANIE W PĘTLI"
+
+msgctxt "gz_menu.lng#eng::cassettetape_pause"
+msgid "PAUSE"
+msgstr "PAUZA"
+
+msgctxt "gz_menu.lng#eng::cassettetape_info_music"
+msgid "Play music tape."
+msgstr "Odtwórz kasetę z muzyką."
+
+msgctxt "gz_menu.lng#eng::cassettetape_info_heli"
+msgid "Set music that plays when your helicopter appears."
+msgstr "Ustaw muzykę odtwarzaną po przylocie śmigłowca."
+
+msgctxt "gz_menu.lng#eng::cassettetape_info_briefing"
+msgid "Listen to pre-mission intel."
+msgstr "Odsłuchaj dane wywiadowcze przed misją."
+
+msgctxt "gz_menu.lng#eng::cassettetape_info_archive"
+msgid "Listen to recordings from \"PEACE WALKER.\""
+msgstr "Odsłuchaj nagrania z „PEACE WALKER”."
+
+msgctxt "gz_menu.lng#eng::controls_type_shooter_B"
+msgid "Shooter Type B"
+msgstr "Typ strzelanki B"
+
+msgctxt "gz_menu.lng#eng::controls_type_action_B"
+msgid "Action Type B"
+msgstr "Typ akcji B"
+
+msgctxt "gz_menu.lng#eng::loading_to_tips"
+msgid "Show Hints"
+msgstr "Pokaż wskazówki"
+
+msgctxt "gz_menu.lng#eng::tutorial_restraint2"
+msgid "While pressed: Restrain enemy"
+msgstr "Podczas trzymania: Obezwładnij wroga"
+
+msgctxt "gz_menu.lng#eng::cassettetape_play_all"
+msgid "Play All"
+msgstr "Odtwórz wszystko"
+
+msgctxt "gz_menu.lng#eng::option_display"
+msgid "Display Settings"
+msgstr "Ustawienia ekranu"
+
+msgctxt "gz_menu.lng#eng::option_info_display"
+msgid "Change the settings of your monitor."
+msgstr "Zmień ustawienia monitora."
+
+msgctxt "gz_menu.lng#eng::option_info_camera_setting"
+msgid "Adjust camera settings."
+msgstr "Dostosuj ustawienia kamery."
+
+msgctxt "gz_menu.lng#eng::option_info_controll_setting"
+msgid "Adjust character control settings."
+msgstr "Dostosuj ustawienia sterowania postacią."
+
+msgctxt "gz_menu.lng#eng::challenge_info_clearTime"
+msgid "Time Remaining to Clear Mission"
+msgstr "Czas pozostały do ukończenia misji"
+
+msgctxt "gz_menu.lng#eng::playrecord_all_tapeCount"
+msgid "Cassette Tape Acquisition Ratio"
+msgstr "Wskaźnik zdobytych kaset"
+
+msgctxt "gz_menu.lng#eng::result_clearTime"
+msgid "TIME"
+msgstr "CZAS"
+
+msgctxt "gz_menu.lng#eng::result_alert"
+msgid "ENEMY COMBAT ALERTS"
+msgstr "ALERMY BOJOWE WROGA"
+
+msgctxt "gz_menu.lng#eng::result_kill"
+msgid "KILLS"
+msgstr "ZABÓJSTWA"
+
+msgctxt "gz_menu.lng#eng::result_hostage"
+msgid "PRISONERS RESCUED"
+msgstr "URATOWANI WIĘŹNIOWIE"
+
+msgctxt "gz_menu.lng#eng::result_heliDefeated"
+msgid "HELICOPTERS LOST"
+msgstr "STRACONE ŚMIGŁOWCE"
+
+msgctxt "gz_menu.lng#eng::result_retry"
+msgid "RETRIES"
+msgstr "POWTÓRZENIA"
+
+msgctxt "gz_menu.lng#eng::result_bonus"
+msgid "BONUS"
+msgstr "PREMIA"
+
+msgctxt "gz_menu.lng#eng::result_score"
+msgid "SCORE"
+msgstr "WYNIK"
+
+msgctxt "gz_menu.lng#eng::result_rank"
+msgid "RANK"
+msgstr "RANGA"
+
+msgctxt "gz_menu.lng#eng::playrecord_hostageCollection"
+msgid "Prisoners Rescued"
+msgstr "Uratowani więźniowie"
+
+msgctxt "gz_menu.lng#eng::playrecord_heliDefeated"
+msgid "Helicopters Lost"
+msgstr "Stracone śmigłowce"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allhostageCollection"
+msgid "Total Prisoners Rescued"
+msgstr "Łącznie uratowanych więźniów"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allheliDefeated"
+msgid "Total Helicopters Lost"
+msgstr "Łącznie straconych śmigłowców"
+
+msgctxt "gz_menu.lng#eng::bonus_20010_01"
+msgid "ESCAPED PRISONERS RECOVERED"
+msgstr "ODNALEZIENI ZBIEGLI WIĘŹNIOWIE"
+
+msgctxt "gz_menu.lng#eng::bonus_20020_01"
+msgid "BOTH TARGETS RECOVERED"
+msgstr "OBA CELE ODZYSKANE"
+
+msgctxt "gz_menu.lng#eng::bonus_20030_01"
+msgid "CLASSIFIED INTEL RECOVERED"
+msgstr "TAJNE DANE ODZYSKANE"
+
+msgctxt "gz_menu.lng#eng::bonus_20050_01"
+msgid ""
+msgstr "MOTHER BASE AGENTS RECOVERED"
+
+msgctxt "gz_menu.lng#eng::bonus_20060_01"
+msgid "SCENES RECREATED"
+msgstr "ODTWORZONE SCENY"
+
+msgctxt "gz_menu.lng#eng::cassettetape_heli"
+msgid "Helicopter"
+msgstr "Śmigłowiec"
+
+msgctxt "gz_menu.lng#eng::reward_challenge_deleteAllXofTime"
+msgid ""
+"\"Fastest Erasing of all Markings\" and\n"
+"\"Fastest Completion of FOX Logos\" trials\n"
+"have been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próby „Najszybsze usunięcie wszystkich oznaczeń” oraz\n"
+"„Najszybsze zebranie logotypów FOX”\n"
+"zostały odblokowane dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_clearTime"
+msgid ""
+"\"Fastest Completion Time\" trial\n"
+"has been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najkrótszy czas ukończenia”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_clearTime_perfect_stealth"
+msgid ""
+"\"Fastest Comp. Time (no-kill/stealth)\" and\n"
+"\"Fastest Comp. Time (no weapons used)\" trials\n"
+"have been unlocked for this mission's HARD difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próby „Najkrótszy czas (bez zabójstw/wykrycia)” oraz\n"
+"„Najkrótszy czas (bez użycia broni)”\n"
+"zostały odblokowane dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::reward_challenge_allPowerlessTime"
+msgid ""
+"\"Fastest Neutr. of all Enemies\" trial\n"
+"has been unlocked for this mission's NORMAL difficulty setting.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najszybsza neutralizacja wszystkich wrogów”\n"
+"została odblokowana dla poziomu trudności NORMALNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::mb_title_main_menu"
+msgid "MAIN MENU"
+msgstr "MENU GŁÓWNE"
+
+msgctxt "gz_menu.lng#eng::option_info_shoulder_camera"
+msgid "Select left or right shoulder as default when entering shoulder view."
+msgstr "Wybierz domyślne ramię (lewe lub prawe) przy przechodzeniu do widoku zza ramienia."
+
+msgctxt "gz_menu.lng#eng::option_info_brightness_setting"
+msgid "Adjust screen brightness."
+msgstr "Dostosuj jasność ekranu."
+
+msgctxt "gz_menu.lng#eng::mb_key_help_set_heli_music_off"
+msgid "Unselect Music Track"
+msgstr "Odznacz utwór muzyczny"
+
+msgctxt "gz_menu.lng#eng::option_music_volume"
+msgid "Custom Soundtrack Volume"
+msgstr "Głośność własnej ścieżki dźwiękowej"
+
+msgctxt "gz_menu.lng#eng::option_info_music_volume"
+msgid "Adjust the playback volume for custom tracks."
+msgstr "Dostosuj głośność odtwarzania własnych utworów."
+
+msgctxt "gz_menu.lng#eng::marker_info_place_armory"
+msgid "Armory"
+msgstr "Zbrojownia"
+
+msgctxt "gz_menu.lng#eng::marker_info_mission_targetArea"
+msgid "TGT Field of Movement"
+msgstr "Obszar poruszania się celu"
+
+msgctxt "gz_menu.lng#eng::mb_title_nav_mode"
+msgid "NAVIGATION"
+msgstr "NAWIGACJA"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_carnavi_onoff"
+msgid "Compass ON/OFF"
+msgstr "Kompas WŁ./WYŁ."
+
+msgctxt "gz_menu.lng#eng::mb_key_help_camera"
+msgid "CAMERA"
+msgstr "KAMERA"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_move"
+msgid "MOVE"
+msgstr "RUCH"
+
+msgctxt "gz_menu.lng#eng::option_info_game_setting"
+msgid "Configure gameplay-related settings."
+msgstr "Skonfiguruj ustawienia związane z rozgrywką."
+
+msgctxt "gz_menu.lng#eng::option_info_weapon_icon"
+msgid "Set how weapon/item icons are displayed."
+msgstr "Ustaw sposób wyświetlania ikon broni i przedmiotów."
+
+msgctxt "gz_menu.lng#eng::option_weapon_icon"
+msgid "Show Weapon/Item Icons"
+msgstr "Pokaż ikony broni/przedmiotów"
+
+msgctxt "gz_menu.lng#eng::option_weapon_hold"
+msgid "Only while aiming"
+msgstr "Tylko podczas celowania"
+
+msgctxt "gz_menu.lng#eng::option_info_marking"
+msgid ""
+"Set whether an enemy is marked when focused on. Clear a mission without marking a single "
+"enemy to earn a score bonus.  Markers will still appear in the iDroid's map even when this "
+"option is set to OFF."
+msgstr ""
+"Ustawia, czy wróg zostaje oznaczony po skupieniu na nim wzroku. Ukończ misję bez oznaczania "
+"ani jednego wroga, aby otrzymać premię do wyniku. Znaczniki będą nadal widoczne na mapie "
+"iDroida, nawet jeśli ta opcja jest WYŁĄCZONA."
+
+msgctxt "gz_menu.lng#eng::option_marking"
+msgid "Marking"
+msgstr "Oznaczanie"
+
+msgctxt "gz_menu.lng#eng::option_info_reflex_mode"
+msgid ""
+"Set whether Reflex Mode activates when spotted\n"
+"by an enemy. Clear a mission without entering\n"
+"Reflex Mode once to earn a score bonus."
+msgstr ""
+"Ustawia, czy tryb refleksu aktywuje się po wykryciu\n"
+"przez wroga. Ukończ misję bez ani jednej aktywacji\n"
+"trybu refleksu, aby otrzymać premię do wyniku."
+
+msgctxt "gz_menu.lng#eng::option_reflex_mode"
+msgid "Reflex Mode"
+msgstr "Tryb refleksu"
+
+msgctxt "gz_menu.lng#eng::reward_get_tape_tp_chico_03"
+msgid ""
+"Obtained \"Chico's Tape\n"
+"(3 of 7)\" cassette tape from\n"
+"Chico."
+msgstr ""
+"Otrzymano kasetę magnetofonową\n"
+"„Taśma Chico (3 z 7)” od\n"
+"Chico."
+
+msgctxt "gz_menu.lng#eng::bonus_perfect_stealth"
+msgid "NO REFLEX"
+msgstr "BEZ REFLEKSU"
+
+msgctxt "gz_menu.lng#eng::bonus_no_mark"
+msgid "NO MARK"
+msgstr "BEZ OZNACZEŃ"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_07"
+msgid "Hand Grenade"
+msgstr "Granat ręczny"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_08"
+msgid "Directional Mine"
+msgstr "Mina kierunkowa"
+
+msgctxt "gz_menu.lng#eng::marker_info_weapon_09"
+msgid "Assault Rifle"
+msgstr "Karabin szturmowy"
+
+msgctxt "gz_menu.lng#eng::marker_info_suppressor"
+msgid "Suppressor"
+msgstr "Tłumik"
+
+msgctxt "gz_menu.lng#eng::tutorial_stock_change"
+msgid ": Change Shoulders"
+msgstr ": Zmiana ramienia"
+
+msgctxt "gz_menu.lng#eng::tutorial_primary_wp_select"
+msgid ": Select/Equip Primary Weapon"
+msgstr ": Wybór/wyposażenie broni głównej"
+
+msgctxt "gz_menu.lng#eng::mb_key_rival"
+msgid "Add/Remove Rival"
+msgstr "Dodaj/usuń rywala"
+
+msgctxt "gz_menu.lng#eng::ranking_del_success"
+msgid "Removed from Rivals."
+msgstr "Usunięto z listy rywali."
+
+msgctxt "gz_menu.lng#eng::ranking_add_success"
+msgid "Added to Rivals."
+msgstr "Dodano do listy rywali."
+
+msgctxt "gz_menu.lng#eng::log_speaker_challenge"
+msgid "System"
+msgstr "System"
+
+msgctxt "gz_menu.lng#eng::log_speaker_announce"
+msgid "Mother Base"
+msgstr "Baza Matka"
+
+msgctxt "gz_menu.lng#eng::log_tab_all"
+msgid "All"
+msgstr "Wszystko"
+
+msgctxt "gz_menu.lng#eng::log_tab_cutscene"
+msgid "Cutscene"
+msgstr "Przerywnik"
+
+msgctxt "gz_menu.lng#eng::log_tab_challenge"
+msgid "Trial"
+msgstr "Próba"
+
+msgctxt "gz_menu.lng#eng::log_tab_message"
+msgid "Message"
+msgstr "Wiadomość"
+
+msgctxt "gz_menu.lng#eng::log_tab_talk"
+msgid "Conversation"
+msgstr "Rozmowa"
+
+msgctxt "gz_menu.lng#eng::log_tab_radio"
+msgid "Radio"
+msgstr "Radio"
+
+msgctxt "gz_menu.lng#eng::popup_mission_continue"
+msgid ""
+"%s \"%s\"\n"
+"\n"
+"You will continue this mission from where you left off.\n"
+"Proceed?"
+msgstr ""
+"%s „%s”\n"
+"\n"
+"Będziesz kontynuować tę misję od miejsca przerwania gry.\n"
+"Kontynuować?"
+
+msgctxt "gz_menu.lng#eng::reward_open_side_ops_20070"
+msgid ""
+"\"Jamais Vu\" Extra Op\n"
+"has been unlocked."
+msgstr ""
+"Misja dodatkowa „Jamais Vu”\n"
+"została odblokowana."
+
+msgctxt "gz_menu.lng#eng::playrecord_all_skullCount"
+msgid "Total Skulls Obtained"
+msgstr "Łącznie zdobyte czaszki"
+
+msgctxt "gz_menu.lng#eng::challenge_info_deleteAllXofTime_x36"
+msgid "Time taken to erase all the logo markings in the \"Jamais Vu\" Extra Op."
+msgstr "Czas potrzebny na usunięcie wszystkich logotypów w misji „Jamais Vu”."
+
+msgctxt "gz_menu.lng#eng::challenge_info_findFOXTime_x36"
+msgid "Time taken to complete the FOX logos in the \"Jamais Vu\" Extra Op."
+msgstr "Czas potrzebny na zebranie logotypów FOX w misji „Jamais Vu”."
+
+msgctxt "gz_menu.lng#eng::mission_rec_medalCount"
+msgid "XOF Unit Patches Obtained"
+msgstr "Zdobyte naszywki oddziału XOF"
+
+msgctxt "gz_menu.lng#eng::mission_rec_skullCount"
+msgid "Skulls Obtained"
+msgstr "Zdobyte czaszki"
+
+msgctxt "gz_menu.lng#eng::marker_info_bullet_artillery"
+msgid "Shell"
+msgstr "Pocisk"
+
+msgctxt "gz_menu.lng#eng::marker_info_bullet_tranq"
+msgid "Ammo (Non-lethal)"
+msgstr "Amunicja (nieśmiercionośna)"
+
+msgctxt "gz_menu.lng#eng::challenge_info_allGetClaymoreTime_x36"
+msgid "Time taken to collect all the land mines in the \"Jamais Vu\" Extra Op."
+msgstr "Czas potrzebny na zebranie wszystkich min lądowych w misji dodatkowej „Jamais Vu”."
+
+msgctxt "gz_menu.lng#eng::challenge_info_allExterminateRatTime_x36"
+msgid "Time taken to exterminate all the rodents in the \"Jamais Vu\" Extra Op."
+msgstr "Czas potrzebny na eksterminację wszystkich gryzoni w misji dodatkowej „Jamais Vu”."
+
+msgctxt "gz_menu.lng#eng::challenge_info_exterminateCrowTime_x36"
+msgid "Time taken to exterminate all the crows in the \"Jamais Vu\" Extra Op."
+msgstr "Czas potrzebny na eliminację wszystkich kruków w misji dodatkowej „Jamais Vu”."
+
+msgctxt "gz_menu.lng#eng::common_new"
+msgid "NEW"
+msgstr "NOWE"
+
+msgctxt "gz_menu.lng#eng::reward_get_tape_tp_bgm_01"
+msgid ""
+"All missions have been cleared\n"
+"on the Hard difficulty level.\n"
+"Obtained \"ZOE: THE 2ND RUNNER\"\n"
+"cassette tape."
+msgstr ""
+"Wszystkie misje zostały ukończone\n"
+"na trudnym poziomie trudności.\n"
+"Otrzymano kasetę magnetofonową\n"
+"„ZOE: THE 2ND RUNNER”."
+
+msgctxt "gz_menu.lng#eng::loading_to_title"
+msgid "Title Menu"
+msgstr "Menu główne"
+
+msgctxt "gz_menu.lng#eng::bonus_hide"
+msgid "???"
+msgstr "???"
+
+msgctxt "gz_menu.lng#eng::log_speaker_1"
+msgid "Marine"
+msgstr "Marine"
+
+msgctxt "gz_menu.lng#eng::log_speaker_13"
+msgid "Snake"
+msgstr "Snake"
+
+msgctxt "gz_menu.lng#eng::log_speaker_15"
+msgid "Miller"
+msgstr "Miller"
+
+msgctxt "gz_menu.lng#eng::log_speaker_155"
+msgid "Snake"
+msgstr "Snake"
+
+msgctxt "gz_menu.lng#eng::log_speaker_156"
+msgid "Pilot"
+msgstr "Pilot"
+
+msgctxt "gz_menu.lng#eng::log_speaker_160"
+msgid "Miller"
+msgstr "Miller"
+
+msgctxt "gz_menu.lng#eng::log_speaker_165"
+msgid "Prisoner"
+msgstr "Więzień"
+
+msgctxt "gz_menu.lng#eng::log_speaker_166"
+msgid "Prisoner"
+msgstr "Więzień"
+
+msgctxt "gz_menu.lng#eng::log_speaker_167"
+msgid "Prisoner"
+msgstr "Więzień"
+
+msgctxt "gz_menu.lng#eng::log_speaker_168"
+msgid "Prisoner"
+msgstr "Więzień"
+
+msgctxt "gz_menu.lng#eng::log_speaker_170"
+msgid "iDROID"
+msgstr "iDROID"
+
+msgctxt "gz_menu.lng#eng::log_speaker_172"
+msgid "Hideo Kojima"
+msgstr "Hideo Kojima"
+
+msgctxt "gz_menu.lng#eng::log_speaker_2"
+msgid "Marine"
+msgstr "Marine"
+
+msgctxt "gz_menu.lng#eng::log_speaker_24"
+msgid "Marine Command Post"
+msgstr "Punkt dowodzenia marines"
+
+msgctxt "gz_menu.lng#eng::log_speaker_26"
+msgid "Chico"
+msgstr "Chico"
+
+msgctxt "gz_menu.lng#eng::log_speaker_27"
+msgid "Paz"
+msgstr "Paz"
+
+msgctxt "gz_menu.lng#eng::log_speaker_28"
+msgid "Pilot"
+msgstr "Pilot"
+
+msgctxt "gz_menu.lng#eng::log_speaker_29"
+msgid "Huey"
+msgstr "Huey"
+
+msgctxt "gz_menu.lng#eng::log_speaker_3"
+msgid "Marine"
+msgstr "Marine"
+
+msgctxt "gz_menu.lng#eng::log_speaker_30"
+msgid "Snake"
+msgstr "Snake"
+
+msgctxt "gz_menu.lng#eng::log_speaker_37"
+msgid "Skull Face"
+msgstr "Skull Face"
+
+msgctxt "gz_menu.lng#eng::log_speaker_39"
+msgid "Medic"
+msgstr "Medyk"
+
+msgctxt "gz_menu.lng#eng::log_speaker_4"
+msgid "Marine"
+msgstr "Marine"
+
+msgctxt "gz_menu.lng#eng::log_speaker_40"
+msgid "Prisoner"
+msgstr "Więzień"
+
+msgctxt "gz_menu.lng#eng::log_speaker_41"
+msgid "Prisoner"
+msgstr "Więzień"
+
+msgctxt "gz_menu.lng#eng::log_speaker_42"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_44"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_45"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_46"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_47"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_48"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_49"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_50"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_51"
+msgid "Mother Base Soldier"
+msgstr "Żołnierz Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_95"
+msgid "Miller"
+msgstr "Miller"
+
+msgctxt "gz_menu.lng#eng::log_speaker_96"
+msgid "Miller"
+msgstr "Miller"
+
+msgctxt "gz_menu.lng#eng::result_key_next"
+msgid "Exit Results"
+msgstr "Wyjdź z podsumowania"
+
+msgctxt "gz_menu.lng#eng::mb_key_help_map_rotation"
+msgid "Rotate Map"
+msgstr "Obróć mapę"
+
+msgctxt "gz_menu.lng#eng::manual_key_show_guid"
+msgid "Show/Hide Button Guide"
+msgstr "Pokaż/ukryj sterowanie"
+
+msgctxt "gz_menu.lng#eng::pause_key_show_control"
+msgid "Controls Guide"
+msgstr "Poradnik sterowania"
+
+msgctxt "gz_menu.lng#eng::marker_info_Surveillance_camera"
+msgid "Surveillance Camera"
+msgstr "Kamera monitoringu"
+
+msgctxt "gz_menu.lng#eng::marker_info_heli"
+msgid "Support Chopper"
+msgstr "Śmigłowiec wsparcia"
+
+msgctxt "gz_menu.lng#eng::marker_info_snatcher"
+msgid "Snatcher"
+msgstr "Snatcher"
+
+msgctxt "gz_menu.lng#eng::marker_info_soldier_human"
+msgid "Human Soldier"
+msgstr "Ludzki żołnierz"
+
+msgctxt "gz_menu.lng#eng::marker_info_raiden"
+msgid "Raiden"
+msgstr "Raiden"
+
+msgctxt "gz_menu.lng#eng::marker_info_lastdeadpoint"
+msgid "Last Final Location"
+msgstr "Ostatnia lokalizacja śmierci"
+
+msgctxt "gz_menu.lng#eng::popup_mission_start"
+msgid ""
+"Mission will begin.\n"
+"Do you want to continue?"
+msgstr ""
+"Misja zostanie rozpoczęta.\n"
+"Czy chcesz kontynuować?"
+
+msgctxt "gz_menu.lng#eng::import_key_select"
+msgid "Select"
+msgstr "Wybierz"
+
+msgctxt "gz_menu.lng#eng::import_key_import"
+msgid "Import"
+msgstr "Importuj"
+
+msgctxt "gz_menu.lng#eng::result_none"
+msgid "---"
+msgstr "---"
+
+msgctxt "gz_menu.lng#eng::marker_info_area_00"
+msgid "East Refugee Camp"
+msgstr "Wschodni obóz uchodźców"
+
+msgctxt "gz_menu.lng#eng::marker_info_area_01"
+msgid "West Refugee Camp"
+msgstr "Zachodni obóz uchodźców"
+
+msgctxt "gz_menu.lng#eng::marker_info_area_02"
+msgid "Warehouse Area"
+msgstr "Strefa magazynowa"
+
+msgctxt "gz_menu.lng#eng::marker_info_area_03"
+msgid "Heliport"
+msgstr "Lądowisko"
+
+msgctxt "gz_menu.lng#eng::marker_info_area_04"
+msgid "Admin Building"
+msgstr "Budynek administracyjny"
+
+msgctxt "gz_menu.lng#eng::marker_info_area_05"
+msgid "Old Prison Area"
+msgstr "Stary areszt"
+
+msgctxt "gz_menu.lng#eng::option_info_camera_switch"
+msgid "Set speed that camera changes views."
+msgstr "Ustawia prędkość zmiany widoku kamery."
+
+msgctxt "gz_menu.lng#eng::option_info_camera_speed_F"
+msgid "Set speed that camera moves in first-person view."
+msgstr "Ustawia prędkość ruchu kamery w pierwszej osobie."
+
+msgctxt "gz_menu.lng#eng::option_info_camera_speed_T"
+msgid "Set speed that camera moves in shoulder view."
+msgstr "Ustawia prędkość ruchu kamery w widoku zza ramienia."
+
+msgctxt "gz_menu.lng#eng::option_info_camera_speed_S"
+msgid "Set speed that camera moves in third-person view."
+msgstr "Ustawia prędkość ruchu kamery w trzeciej osobie."
+
+msgctxt "gz_menu.lng#eng::option_camera_switch"
+msgid "Camera Change Speed"
+msgstr "Prędkość zmiany kamery"
+
+msgctxt "gz_menu.lng#eng::option_camera_speed_F"
+msgid "Camera Speed (FPS)"
+msgstr "Prędkość kamery (FPP)"
+
+msgctxt "gz_menu.lng#eng::option_camera_speed_T"
+msgid "Camera Speed (Shoulder)"
+msgstr "Prędkość kamery (ramię)"
+
+msgctxt "gz_menu.lng#eng::option_camera_speed_S"
+msgid "Camera Speed (TPS)"
+msgstr "Prędkość kamery (TPP)"
+
+msgctxt "gz_menu.lng#eng::reward_title"
+msgid "REWARDS"
+msgstr "NAGRODY"
+
+msgctxt "gz_menu.lng#eng::reward_open_raiden_b_20070"
+msgid ""
+"The Command Armor outfit has been unlocked for the \"Jamais Vu\" Extra Op.\n"
+"It can be selected after choosing this mission from the Mission Select Menu."
+msgstr ""
+"Strój pancerza dowodzenia został odblokowany dla misji dodatkowej „Jamais Vu”.\n"
+"Można go wybrać po wskazaniu tej misji w menu wyboru misji."
+
+msgctxt "gz_menu.lng#eng::reward_open_raiden_w_20070"
+msgid ""
+"The White Armor outfit has been unlocked for the \"Jamais Vu\" Extra Op.\n"
+"It can be selected after choosing this mission from the Mission Select Menu."
+msgstr ""
+"Strój białego pancerza został odblokowany dla misji dodatkowej „Jamais Vu”.\n"
+"Można go wybrać po wskazaniu tej misji w menu wyboru misji."
+
+msgctxt "gz_menu.lng#eng::reward_open_raiden_b_20060"
+msgid ""
+"The Cyborg Ninja outfit has been unlocked for the \"Déjà-Vu\" Extra Op.\n"
+"It can be selected after choosing this mission from the Mission Select Menu."
+msgstr ""
+"Strój Cyborga Ninja został odblokowany dla misji dodatkowej „Déjà-Vu”.\n"
+"Można go wybrać po wskazaniu tej misji w menu wyboru misji."
+
+msgctxt "gz_menu.lng#eng::popup_import_cancel"
+msgid ""
+"This will cancel the import process.\n"
+"Are you sure?"
+msgstr ""
+"Proces importowania zostanie przerwany.\n"
+"Czy na pewno?"
+
+msgctxt "gz_menu.lng#eng::popup_import_execute"
+msgid ""
+"This will import the selected tracks.\n"
+"Proceed?"
+msgstr ""
+"Wybrane utwory zostaną zaimportowane.\n"
+"Kontynuować?"
+
+msgctxt "gz_menu.lng#eng::import_tab_selected"
+msgid "Selected Tracks"
+msgstr "Wybrane utwory"
+
+msgctxt "gz_menu.lng#eng::import_tab_all"
+msgid "All Tracks"
+msgstr "Wszystkie utwory"
+
+msgctxt "gz_menu.lng#eng::popup_error_rival_add2"
+msgid ""
+"This player is not logged into game server.\n"
+"You cannot register them as a rival."
+msgstr ""
+"Ten gracz nie jest zalogowany na serwerze gry.\n"
+"Nie możesz zarejestrować go jako rywala."
+
+msgctxt "gz_menu.lng#eng::marker_info_heli_battle"
+msgid "Attack Chopper"
+msgstr "Śmigłowiec bojowy"
+
+msgctxt "gz_menu.lng#eng::marker_info_logoArea"
+msgid "Logo Marking Area"
+msgstr "Obszar z logotypem"
+
+msgctxt "gz_menu.lng#eng::marker_info_logo"
+msgid "Logo Marking"
+msgstr "Logotyp"
+
+msgctxt "gz_menu.lng#eng::reward_clear_c_submachine"
+msgid ""
+"Rank C Clear Reward\n"
+"You have obtained the \"Sz.-336 SMG.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę C\n"
+"Zdobyto pistolet maszynowy „Sz.-336 SMG”.\n"
+"Od teraz będzie on dostępny w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_b_rocket"
+msgid ""
+"Rank B Clear Reward\n"
+"You have obtained the \"FB MR R-LAUNCHER.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę B\n"
+"Zdobyto wyrzutnię rakiet „FB MR R-LAUNCHER”.\n"
+"Od teraz będzie ona dostępna w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_a_sniper"
+msgid ""
+"Rank A Clear Reward\n"
+"You have obtained the \"M2000 SNIPER-D.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę A\n"
+"Zdobyto karabin snajperski „M2000 SNIPER-D”.\n"
+"Od teraz będzie on dostępny w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_s_sniper2"
+msgid ""
+"Rank S Clear Reward\n"
+"You have obtained the \"M2000 SNIPER-D.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę S\n"
+"Zdobyto karabin snajperski „M2000 SNIPER-D”.\n"
+"Od teraz będzie on dostępny w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_b_shotgun"
+msgid ""
+"Rank B Clear Reward\n"
+"You have obtained the \"S1000 SHOTGUN.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę B\n"
+"Zdobyto strzelbę „S1000 SHOTGUN”.\n"
+"Od teraz będzie ona dostępna w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_s_sniper"
+msgid ""
+"Rank S Clear Reward\n"
+"You have obtained the \"M2000 SNIPER-D.\"\n"
+"It will be part of this mission's loadout from now on."
+msgstr ""
+"Nagroda za rangę S\n"
+"Zdobyto karabin snajperski „M2000 SNIPER-D”.\n"
+"Od teraz będzie on częścią Twojego wyposażenia w tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_s_rifle"
+msgid ""
+"Rank S Clear Reward\n"
+"You have obtained the \"AM-69 AAS RIFLE.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę S\n"
+"Zdobyto karabin szturmowy „AM-69 AAS RIFLE”.\n"
+"Od teraz będzie on dostępny w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_b_sniper"
+msgid ""
+"Rank B Clear Reward\n"
+"You have obtained the \"M2000 SNIPER-D.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę B\n"
+"Zdobyto karabin snajperski „M2000 SNIPER-D”.\n"
+"Od teraz będzie on dostępny w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_a_rocket"
+msgid ""
+"Rank A Clear Reward\n"
+"You have obtained the \"FB MR R-LAUNCHER.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę A\n"
+"Zdobyto wyrzutnię rakiet „FB MR R-LAUNCHER”.\n"
+"Od teraz będzie ona dostępna w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::reward_clear_c_pistol"
+msgid ""
+"Rank C Clear Reward\n"
+"You have obtained the \"URAGAN-5 PISTOL.\"\n"
+"It will be placed at this mission's start point from now on."
+msgstr ""
+"Nagroda za rangę C\n"
+"Zdobyto pistolet „URAGAN-5 PISTOL”.\n"
+"Od teraz będzie on dostępny w punkcie startowym tej misji."
+
+msgctxt "gz_menu.lng#eng::popup_quiz"
+msgid "Take the \"Metal Gear Solid\" quiz"
+msgstr "Weź udział w quizie wiedzy o „Metal Gear Solid”"
+
+msgctxt "gz_menu.lng#eng::playrecord_enemyCollection"
+msgid "Soldiers Extracted"
+msgstr "Ewakuowani żołnierze"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allenemyCollection"
+msgid "Total Soldiers Extracted"
+msgstr "Łącznie ewakuowanych żołnierzy"
+
+msgctxt "gz_menu.lng#eng::mission_rec_allDoorUnlock"
+msgid "Fastest Unlocking of all Doors"
+msgstr "Najszybsze otwarcie wszystkich drzwi"
+
+msgctxt "gz_menu.lng#eng::challenge_info_allDoorUnlock_x36"
+msgid "Time taken to pick all the pickable locks in the \"Jamais Vu\" Extra Op."
+msgstr "Czas potrzebny na otwarcie wszystkich zamków w misji dodatkowej „Jamais Vu”."
+
+msgctxt "gz_menu.lng#eng::challenge_info_allDoorUnlock"
+msgid "Time taken to pick all the pickable locks in the \"Déjà-Vu\" Extra Op."
+msgstr "Czas potrzebny na otwarcie wszystkich zamków w misji dodatkowej „Déjà-Vu”."
+
+msgctxt "gz_menu.lng#eng::popup_import_nodata"
+msgid "No music tracks to import"
+msgstr "Brak utworów muzycznych do importu"
+
+msgctxt "gz_menu.lng#eng::controls_attack_B"
+msgid "Attack/Quick Dive"
+msgstr "Atak/Szybki skok"
+
+msgctxt "gz_menu.lng#eng::controls_attack_A"
+msgid "Attack/CQC"
+msgstr "Atak/CQC"
+
+msgctxt "gz_menu.lng#eng::tutorial_rolling"
+msgid ": Roll"
+msgstr ": Przewrót"
+
+msgctxt "gz_menu.lng#eng::gameover_reason_target_died"
+msgid "TARGET DIED"
+msgstr "CEL ZGINĄŁ"
+
+msgctxt "gz_menu.lng#eng::gameover_reason_mission_outside"
+msgid "OUT OF BOUNDS"
+msgstr "POZA TERENEM MISJI"
+
+msgctxt "gz_menu.lng#eng::gameover_reason_time_over"
+msgid "TIME OVER"
+msgstr "CZAS MINĄŁ"
+
+msgctxt "gz_menu.lng#eng::gameover_reason_heli_destroyed"
+msgid "HELICOPTER LOST"
+msgstr "ŚMIGŁOWIEC STRACONY"
+
+msgctxt "gz_menu.lng#eng::gameover_reason_target_outside"
+msgid "TARGET ESCAPED"
+msgstr "CEL UCIEKŁ"
+
+msgctxt "gz_menu.lng#eng::cassettetape_gettape"
+msgid "Acquired Tapes"
+msgstr "Zdobyte taśmy"
+
+msgctxt "gz_menu.lng#eng::cassettetape_info_gettape"
+msgid "Listen to tapes acquired in the field."
+msgstr "Słuchaj taśm znalezionych w terenie."
+
+msgctxt "gz_menu.lng#eng::marker_info_moai"
+msgid "Moai"
+msgstr "Moai"
+
+msgctxt "gz_menu.lng#eng::controls_v_zoom_inout"
+msgid "(TPS) Zoom In/Out"
+msgstr "(TPP) Przybliżenie/Oddalenie"
+
+msgctxt "gz_menu.lng#eng::marker_info_enemyArea"
+msgid "Anticipated enemy location"
+msgstr "Przewidywana lokalizacja wroga"
+
+msgctxt "gz_menu.lng#eng::gameover_reason_mission_abort"
+msgid "MISSION ABORT"
+msgstr "MISJA PRZERWANA"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_01"
+msgid "XOF Patches Gathered [1/9]"
+msgstr "Zebrane naszywki XOF [1/9]"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_02"
+msgid "XOF Patches Gathered [2/9]"
+msgstr "Zebrane naszywki XOF [2/9]"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_03"
+msgid "XOF Patches Gathered [3/9]"
+msgstr "Zebrane naszywki XOF [3/9]"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_04"
+msgid "XOF Patches Gathered [4/9]"
+msgstr "Zebrane naszywki XOF [4/9]"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_05"
+msgid "XOF Patches Gathered [5/9]"
+msgstr "Zebrane naszywki XOF [5/9]"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_06"
+msgid "XOF Patches Gathered [6/9]"
+msgstr "Zebrane naszywki XOF [6/9]"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_07"
+msgid "XOF Patches Gathered [7/9]"
+msgstr "Zebrane naszywki XOF [7/9]"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_08"
+msgid "XOF Patches Gathered [8/9]"
+msgstr "Zebrane naszywki XOF [8/9]"
+
+msgctxt "gz_menu.lng#eng::reward_xof_num_09"
+msgid "XOF Patches Gathered [9/9]"
+msgstr "Zebrane naszywki XOF [9/9]"
+
+msgctxt "gz_menu.lng#eng::ranking_myscore"
+msgid "MY RANK"
+msgstr "MOJA RANGA"
+
+msgctxt "gz_menu.lng#eng::controls_type_info_action"
+msgid ""
+"Action Type is recommended for fans of the traditional \"Metal Gear Solid\" series. With "
+"Type A, pressing <I=G=CQC> will perform a CQC attack. Holding <I=G=CQC> will capture and "
+"restrain an enemy for as long as the button is held. <I=G=MOVE> + <I=G=EVADE> will perform "
+"a Quick Dive."
+msgstr ""
+"Typ akcji jest zalecany dla fanów tradycyjnej serii „Metal Gear Solid”. W wariancie typu A "
+"naciśnięcie <I=G=CQC> wykonuje atak CQC. Przytrzymanie <I=G=CQC> pozwala pochwycić i "
+"obezwładnić wroga tak długo, jak przycisk pozostaje wciśnięty. <I=G=MOVE> + <I=G=EVADE> "
+"wykonuje szybki skok."
+
+msgctxt "gz_menu.lng#eng::controls_type_info_action_B"
+msgid ""
+"Action Type is recommended for fans of the traditional \"Metal Gear Solid\" series. With "
+"Type B, pressing <I=G=CQC> will perform a CQC attack. Holding <I=G=CQC> will capture and "
+"restrain an enemy for as long as the button is held. <I=G=MOVE> + <I=G=EVADE> will perform "
+"a Quick Dive."
+msgstr ""
+"Typ akcji jest zalecany dla fanów tradycyjnej serii „Metal Gear Solid”. W wariancie typu B "
+"naciśnięcie <I=G=CQC> wykonuje atak CQC. Przytrzymanie <I=G=CQC> pozwala pochwycić i "
+"obezwładnić wroga tak długo, jak przycisk pozostaje wciśnięty. <I=G=MOVE> + <I=G=EVADE> "
+"wykonuje szybki skok."
+
+msgctxt "gz_menu.lng#eng::controls_type_info_shooter"
+msgid ""
+"Shooter Type is recommended for fans of FPS (first-person shooting) games. With Type A, "
+"pressing <I=G=CQC> will perform a CQC attack. Holding <I=G=CQC> will capture and restrain "
+"an enemy for as long as the button is held. <I=G=MOVE> + <I=G=EVADE> will perform a Quick "
+"Dive."
+msgstr ""
+"Typ strzelanki jest zalecany dla fanów gier typu FPS (strzelanek pierwszoosobowych). W "
+"wariancie typu A naciśnięcie <I=G=CQC> wykonuje atak CQC. Przytrzymanie <I=G=CQC> pozwala "
+"pochwycić i obezwładnić wroga tak długo, jak przycisk pozostaje wciśnięty. <I=G=MOVE> + "
+"<I=G=EVADE> wykonuje szybki skok."
+
+msgctxt "gz_menu.lng#eng::controls_type_info_shooter_B"
+msgid ""
+"Shooter Type is recommended for fans of FPS (first-person shooting) games. With Type B, "
+"pressing <I=G=CQC> will perform a CQC attack. Holding <I=G=CQC> will capture and restrain "
+"an enemy for as long as the button is held. <I=G=MOVE> + <I=G=EVADE> will perform a Quick "
+"Dive."
+msgstr ""
+"Typ strzelanki jest zalecany dla fanów gier typu FPS (strzelanek pierwszoosobowych). W "
+"wariancie typu B naciśnięcie <I=G=CQC> wykonuje atak CQC. Przytrzymanie <I=G=CQC> pozwala "
+"pochwycić i obezwładnić wroga tak długo, jak przycisk pozostaje wciśnięty. <I=G=MOVE> + "
+"<I=G=EVADE> wykonuje szybki skok."
+
+msgctxt "gz_menu.lng#eng::option_key_controls_info"
+msgid "Controls / Help"
+msgstr "Sterowanie / Pomoc"
+
+msgctxt "gz_menu.lng#eng::mission_rec_best_playthrough"
+msgid "BEST PLAYTHROUGH"
+msgstr "NAJLEPSZE PODEJŚCIE"
+
+msgctxt "gz_menu.lng#eng::cassettetape_no_tape"
+msgid "NO TAPE"
+msgstr "BRAK TAŚMY"
+
+msgctxt "gz_menu.lng#eng::cassettetape_no_track"
+msgid "NO TRACK"
+msgstr "BRAK UTWORU"
+
+msgctxt "gz_menu.lng#eng::popup_cancel_heli_music"
+msgid "Helicopter music has been cleared."
+msgstr "Muzyka w śmigłowcu została wyłączona."
+
+msgctxt "gz_menu.lng#eng::popup_set_heli_music"
+msgid "Helicopter music has been set."
+msgstr "Muzyka w śmigłowcu została ustawiona."
+
+msgctxt "gz_menu.lng#eng::tutorial_pause"
+msgid ": Pause"
+msgstr ": Pauza"
+
+msgctxt "gz_menu.lng#eng::tutorial_vehicle_attack"
+msgid ": Fire"
+msgstr ": Ogień"
+
+msgctxt "gz_menu.lng#eng::playrecord_complete_rate"
+msgid "Completion Ratio"
+msgstr "Wskaźnik ukończenia"
+
+msgctxt "gz_menu.lng#eng::reward_challenge_clearTime_perfect_stealth2"
+msgid ""
+"\"Fastest Completion Time (stealth, no kills)\" trial\n"
+"have been unlocked for this mission's HARD difficulty mode.\n"
+"For details, go to the Trial Records Menu."
+msgstr ""
+"Próba „Najkrótszy czas (skradanie, bez zabójstw)”\n"
+"została odblokowana dla poziomu trudności TRUDNY.\n"
+"Szczegóły znajdziesz w menu rekordów prób."
+
+msgctxt "gz_menu.lng#eng::log_speaker_164"
+msgid "Mother Base Agent"
+msgstr "Agent Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::log_speaker_163"
+msgid "Mother Base Agent"
+msgstr "Agent Bazy Matki"
+
+msgctxt "gz_menu.lng#eng::option_oss_licenses"
+msgid "Support & Legal Information"
+msgstr "Pomoc techniczna i informacje prawne"
+
+msgctxt "gz_menu.lng#eng::option_info_oss_licenses"
+msgid "Display support and legal information"
+msgstr "Wyświetl pomoc techniczną i informacje prawne."
